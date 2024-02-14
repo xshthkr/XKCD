@@ -11,19 +11,21 @@ def get_current_xkcd():
 
 
 def generate_readme(comic_data):
+
     readme_content = f"""
-        # Current XKCD Comic
+# Current XKCD Comic
         
-        Title: {comic_data['title']}  
-        Comic Number: {comic_data['num']}  
-        Date: {comic_data['month']}/{comic_data['day']}/{comic_data['year']}  
+Title: {comic_data['title']}  
+Comic Number: {comic_data['num']}  
+Date: {comic_data['month']}/{comic_data['day']}/{comic_data['year']}  
         
-        ---
+---
         
-        ![XKCD Comic]( {comic_data['img']} )  
+![XKCD Comic]( {comic_data['img']} )  
         
-        {comic_data['alt']}
-    """
+{comic_data['alt']}
+"""
+
     with open(README_FILE, "w") as readme_file:
         readme_file.write(readme_content)
 
