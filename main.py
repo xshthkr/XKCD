@@ -1,6 +1,8 @@
 import requests
 
 README_FILE = "README.md"
+MONTHS = ['', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October',
+          'November', 'December']
 
 
 def get_current_xkcd():
@@ -11,21 +13,27 @@ def get_current_xkcd():
 
 
 def generate_readme(comic_data):
-
     readme_content = f"""
-# XKCD
-
-Dynamically generated every midnight UTC
-     
----  
-        
-Title: {comic_data['title']}  
-Comic Number: {comic_data['num']}  
-Date: {comic_data['month']}/{comic_data['day']}/{comic_data['year']}  
-        
-![XKCD Comic]( {comic_data['img']} )  
-        
-{comic_data['alt']}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XKCD</title>
+</head>
+<body>
+    <h1 style="text-align:center;"><a href="https://xkcd.com">XKCD</a></h1>
+    <p style="text-align:center;">Dynamically generated every midnight UTC</p>
+    <hr>
+    <div style="text-align:center;">
+        <h3><strong>{comic_data['title']}</strong></h3>
+        <p>#{comic_data['num']}</p>
+        <p>{MONTHS[int(comic_data['month'])]} {comic_data['day']}, {comic_data['year']}</p>
+        <img src="{comic_data['img']}" alt="XKCD Comic" style="display:block;margin:auto;">
+        <p><em>{comic_data['alt']}</em></p>
+    </div>
+</body>
+</html>
 """
 
     with open(README_FILE, "w") as readme_file:
