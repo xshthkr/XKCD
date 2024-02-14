@@ -1,5 +1,7 @@
 
-# Current XKCD Comic
+# XKCD
+
+Dynamically generated every midnight UTC
         
 Title: Sphere Tastiness  
 Comic Number: 2893  
