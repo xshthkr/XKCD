@@ -7,6 +7,6 @@
     <p>#2893</p>
     <p>February 12, 2024</p>
     <img src="https://imgs.xkcd.com/comics/sphere_tastiness.png">
-    <br/>
+    <br></br>
     <p><i>Baseballs do present a challenge to this theory, but I'm convinced we just haven't found the right seasoning.</i></p>
 </div>
