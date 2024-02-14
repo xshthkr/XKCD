@@ -15,7 +15,7 @@ def get_current_xkcd():
 def generate_readme(comic_data):
     readme_content = f"""
 <h1 align="center"><a href="https://xkcd.com">XKCD</a></h1>
-<p align="center"><i>Dynamically generated every midnight UTC</i></p>
+<p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
     <h3><strong>{comic_data['title']}</strong></h3>
