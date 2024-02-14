@@ -14,7 +14,7 @@ def get_current_xkcd():
 
 def generate_readme(comic_data):
     readme_content = f"""
-<h1 style="text-align:center;"><a href="https://xkcd.com">XKCD</a></h1>
+<h1 align="center"><a href="https://xkcd.com">XKCD</a></h1>
 <p align="center"><i>Dynamically generated every midnight UTC</i></p>
 <hr>
 <div align="center">
@@ -22,6 +22,7 @@ def generate_readme(comic_data):
     <p>#{comic_data['num']}</p>
     <p>{MONTHS[int(comic_data['month'])]} {comic_data['day']}, {comic_data['year']}</p>
     <img src="{comic_data['img']}">
+    <br/>
     <p><i>{comic_data['alt']}</i></p>
 </div>
 """
