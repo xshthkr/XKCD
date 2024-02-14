@@ -16,12 +16,12 @@ def generate_readme(comic_data):
 # XKCD
 
 Dynamically generated every midnight UTC
+     
+---  
         
 Title: {comic_data['title']}  
 Comic Number: {comic_data['num']}  
 Date: {comic_data['month']}/{comic_data['day']}/{comic_data['year']}  
-        
----
         
 ![XKCD Comic]( {comic_data['img']} )  
         
