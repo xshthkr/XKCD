@@ -13,7 +13,9 @@ def get_current_xkcd():
 def generate_readme(comic_data):
 
     readme_content = f"""
-# Current XKCD Comic
+# XKCD
+
+Dynamically generated every midnight UTC
         
 Title: {comic_data['title']}  
 Comic Number: {comic_data['num']}  
