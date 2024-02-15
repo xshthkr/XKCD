@@ -37,8 +37,12 @@ jobs:
         id: extract_comic_number
         run: |
           comic_number=$(jq -r '.num' ${{ steps.run_script.outputs.stdout }})
-          echo XKCD number $comic_number
+          echo "Extracted comic number: $comic_number"
           echo "COMIC_NUMBER=$comic_number" >> $GITHUB_ENV
+
+      - name: Display extracted comic number
+        run: |
+          echo "Extracted comic number: ${{ env.COMIC_NUMBER }}"  # Debugging output
 
       - name: Commit and push changes
         run: |
@@ -48,3 +52,4 @@ jobs:
           git add README.md
           git commit -m "automated update - XKCD #${{ env.COMIC_NUMBER }}"
           git push
+
