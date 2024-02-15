@@ -19,7 +19,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10' 
+          python-version: '3.10'
 
       - name: Install dependencies
         run: |
@@ -27,7 +27,21 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run script
+        id: run_script
         run: |
           echo "$(date +'%Y-%m-%d %H:%M:%S') - Executing python script"
           python main.py
-          
+
+      - name: Extract comic number
+        id: extract_comic_number
+        run: |
+          echo "::set-output name=comic_number::$(jq -r '.num' ${{ steps.run_script.outputs.stdout }})"
+
+      - name: Commit and push changes
+        run: |
+          echo "$(date +'%Y-%m-%d %H:%M:%S') - Committing and pushing changes"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update XKCD comic to #$comic_number"  # Use the extracted comic number
+          git push
