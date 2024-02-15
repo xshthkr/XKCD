@@ -15,6 +15,9 @@ def get_current_xkcd():
 def generate_readme(comic_data):
     readme_content = f"""
 <h1 align="center"><a href="https://xkcd.com">XKCD</a></h1>
+<div align="center">
+    <a href="https://github.com/ShashashankThakur/XKCD/actions/workflows/main.yml"><img src="https://github.com/ShashashankThakur/XKCD/actions/workflows/main.yml/badge.svg?event=status"/></a>
+</div>
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
