@@ -3,6 +3,7 @@ name: Update XKCD Comic
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs the script every day at midnight (UTC)
+  workflow_dispatch:
 
 jobs:
   build:
