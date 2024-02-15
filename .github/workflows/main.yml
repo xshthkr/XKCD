@@ -36,7 +36,8 @@ jobs:
       - name: Extract comic number
         id: extract_comic_number
         run: |
-          echo "::set-output name=comic_number::$(jq -r '.num' ${{ steps.run_script.outputs.stdout }})"
+          comic_number=$(jq -r '.num' ${{ steps.run_script.outputs.stdout }})
+          echo "COMIC_NUMBER=$comic_number" >> $GITHUB_ENV
 
       - name: Commit and push changes
         run: |
@@ -44,5 +45,5 @@ jobs:
           git config --global user.email "ShashashankThakur@users.noreply.github.com"
           git config --global user.name "Shashank Thakur"
           git add README.md
-          git commit -m "automated update - XKCD #$comic_number"
+          git commit -m "automated update - XKCD #${{ env.COMIC_NUMBER }}"
           git push
