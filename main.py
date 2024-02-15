@@ -1,5 +1,4 @@
 import requests
-import subprocess
 
 README_FILE = "README.md"
 MONTHS = ['', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October',
@@ -36,16 +35,6 @@ def main():
     current_comic = get_current_xkcd()
     generate_readme(current_comic)
     print(f"README.md updated with the current XKCD comic ({current_comic['num']})")
-
-    # Add README.md to the staging area
-    subprocess.run(["git", "add", "README.md"])
-
-    # Commit changes
-    commit_message = f"Update README.md with XKCD comic {current_comic['num']}"
-    subprocess.run(["git", "commit", "-m", f"updated README.md with {current_comic['num']}"])
-
-    # Push changes to the remote repository
-    subprocess.run(["git", "push"])
 
 
 if __name__ == "__main__":
