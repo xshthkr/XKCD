@@ -40,8 +40,8 @@ jobs:
       - name: Commit and push changes
         run: |
           echo "$(date +'%Y-%m-%d %H:%M:%S') - Committing and pushing changes"
-          git config --global user.email "shashankt2004@gmail.com"
-          git config --global user.name "ShashashankThakur"
+          git config --global user.email "ShashashankThakur@users.noreply.github.com"
+          git config --global user.name "Shashank Thakur"
           git add README.md
-          git commit -m "Update XKCD comic to #$comic_number"
+          git commit -m "automated update - XKCD #$comic_number"
           git push
