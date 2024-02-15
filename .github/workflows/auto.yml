@@ -9,6 +9,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Display current date and time
+        run: |
+          echo "$(date +'%Y-%m-%d %H:%M:%S') - Starting workflow"
+
       - name: Checkout code
         uses: actions/checkout@v4
 
@@ -18,7 +22,12 @@ jobs:
           python-version: '3.10' 
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          echo "$(date +'%Y-%m-%d %H:%M:%S') - Installing requirements"
+          pip install -r requirements.txt
 
       - name: Run script
-        run: python main.py
+        run: |
+          echo "$(date +'%Y-%m-%d %H:%M:%S') - Executing python script"
+          python main.py
+          
