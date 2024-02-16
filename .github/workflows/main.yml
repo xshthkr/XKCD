@@ -2,7 +2,7 @@ name: Update XKCD Comic
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs the script every day at midnight (UTC)
+    - cron: "*/1 * * * *"
   workflow_dispatch:
 
 jobs:
