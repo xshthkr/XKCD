@@ -7,7 +7,6 @@ __pycache__/
 *.so
 
 # README.md (it is automatically generated)
-README.md
 
 # Distribution / packaging
 .Python
