@@ -1,12 +1,9 @@
 name: Update XKCD Comic
 
 on:
+  schedule:
+    - cron: "*/1 * * * *"
   workflow_dispatch:
-    inputs:
-      scheduled_time:
-        description: 'Scheduled time (UTC)'
-        required: true
-        default: '00:00'
 
 jobs:
   build:
