@@ -2,7 +2,7 @@ name: Update XKCD Comic
 
 on:
   schedule:
-    - cron: "35 12 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
