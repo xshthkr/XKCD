@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Research Account</strong></h3>
-    <p>#2894</p>
-    <p>February 14, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/research_account.png">
+    <h3><strong>Treasure Chests</strong></h3>
+    <p>#2895</p>
+    <p>February 16, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/treasure_chests.png">
     <br></br>
-    <p><i>Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO</i></p>
+    <p><i>[earlier] "Your vintage-style handmade chest business is struggling. But I have a plan."</i></p>
 </div>
