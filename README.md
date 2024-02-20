@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Treasure Chests</strong></h3>
-    <p>#2895</p>
-    <p>February 16, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/treasure_chests.png">
+    <h3><strong>Crossword Constructors</strong></h3>
+    <p>#2896</p>
+    <p>February 19, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/crossword_constructors.png">
     <br></br>
-    <p><i>[earlier] "Your vintage-style handmade chest business is struggling. But I have a plan."</i></p>
+    <p><i>Also, we would really appreciate it if you could prominently refer to it as an 'eHit'.</i></p>
 </div>
