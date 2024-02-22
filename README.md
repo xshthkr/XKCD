@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Crossword Constructors</strong></h3>
-    <p>#2896</p>
-    <p>February 19, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/crossword_constructors.png">
+    <h3><strong>Light Leap Years</strong></h3>
+    <p>#2897</p>
+    <p>February 21, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/light_leap_years.png">
     <br></br>
-    <p><i>Also, we would really appreciate it if you could prominently refer to it as an 'eHit'.</i></p>
+    <p><i>When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships.</i></p>
 </div>
