@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Light Leap Years</strong></h3>
-    <p>#2897</p>
-    <p>February 21, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/light_leap_years.png">
+    <h3><strong>Orbital Argument</strong></h3>
+    <p>#2898</p>
+    <p>February 23, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/orbital_argument.png">
     <br></br>
-    <p><i>When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships.</i></p>
+    <p><i>"Some people say light is waves, and some say it's particles, so I bet light is some in-between thing that's both wave and particle depending on how you look at it. Am I right?" "YES, BUT YOU SHOULDN'T BE!"</i></p>
 </div>
