@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Orbital Argument</strong></h3>
-    <p>#2898</p>
-    <p>February 23, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/orbital_argument.png">
+    <h3><strong>Goodhart's Law</strong></h3>
+    <p>#2899</p>
+    <p>February 26, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/goodharts_law.png">
     <br></br>
-    <p><i>"Some people say light is waves, and some say it's particles, so I bet light is some in-between thing that's both wave and particle depending on how you look at it. Am I right?" "YES, BUT YOU SHOULDN'T BE!"</i></p>
+    <p><i>[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour.</i></p>
 </div>
