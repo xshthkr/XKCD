@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Call My Cell</strong></h3>
-    <p>#2900</p>
-    <p>February 28, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/call_my_cell.png">
+    <h3><strong>Geographic Qualifiers</strong></h3>
+    <p>#2901</p>
+    <p>March 1, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png">
     <br></br>
-    <p><i>'Hey, can you call my cell?' '...I'm trying, but it says this number is blocked?' 'Ok, thanks, just checking.'</i></p>
+    <p><i>'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]</i></p>
 </div>
