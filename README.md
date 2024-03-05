@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Geographic Qualifiers</strong></h3>
-    <p>#2901</p>
-    <p>March 1, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png">
+    <h3><strong>Ice Core</strong></h3>
+    <p>#2902</p>
+    <p>March 4, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/ice_core.png">
     <br></br>
-    <p><i>'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]</i></p>
+    <p><i>If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.</i></p>
 </div>
