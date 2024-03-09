@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Earth/Venus Venn Diagram</strong></h3>
-    <p>#2903</p>
-    <p>March 6, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/earth_venus_venn_diagram.png">
+    <h3><strong>Physics vs. Magic</strong></h3>
+    <p>#2904</p>
+    <p>March 8, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/physics_vs_magic.png">
     <br></br>
-    <p><i>Actually, the fact that Mars is still orbiting safely over here means that it was technically an *Euler* apocalypse, not a Venn one.</i></p>
+    <p><i>'At the stroke of midnight, your brother will be hurtling sideways at an altitude of 150 meters' is a regular physics prediction about your nonmagical trebuchet, whereas 'you are cursed to build a brother-launching trebuchet' falls out of the Lagrangian.</i></p>
 </div>
