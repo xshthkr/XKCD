@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Earth</strong></h3>
-    <p>#2906</p>
-    <p>March 13, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/earth.png">
+    <h3><strong>Schwa</strong></h3>
+    <p>#2907</p>
+    <p>March 15, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/schwa.png">
     <br></br>
-    <p><i>Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing.</i></p>
+    <p><i>Doug's cousin, the one from London, runs a Bumble love cult.</i></p>
 </div>
