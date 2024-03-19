@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Schwa</strong></h3>
-    <p>#2907</p>
-    <p>March 15, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/schwa.png">
+    <h3><strong>Moon Armor Index</strong></h3>
+    <p>#2908</p>
+    <p>March 18, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/moon_armor_index.png">
     <br></br>
-    <p><i>Doug's cousin, the one from London, runs a Bumble love cult.</i></p>
+    <p><i>Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor.</i></p>
 </div>
