@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Moon Armor Index</strong></h3>
-    <p>#2908</p>
-    <p>March 18, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/moon_armor_index.png">
+    <h3><strong>Moon Landing Mission Profiles</strong></h3>
+    <p>#2909</p>
+    <p>March 20, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/moon_landing_mission_profiles.png">
     <br></br>
-    <p><i>Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor.</i></p>
+    <p><i>If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder.</i></p>
 </div>
