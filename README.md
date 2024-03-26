@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>The Wreck of the Edmund Fitzgerald</strong></h3>
-    <p>#2910</p>
-    <p>March 22, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png">
+    <h3><strong>Greenland Size</strong></h3>
+    <p>#2911</p>
+    <p>March 25, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/greenland_size.png">
     <br></br>
-    <p><i>You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!</i></p>
+    <p><i>The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.</i></p>
 </div>
