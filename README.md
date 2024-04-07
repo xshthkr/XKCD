@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Eclipse Clouds</strong></h3>
-    <p>#2915</p>
-    <p>April 3, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/eclipse_clouds.png">
+    <h3><strong>Machine</strong></h3>
+    <p>#2916</p>
+    <p>April 5, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/machine.png">
     <br></br>
-    <p><i>The rare compound solar-lunar-nephelogical eclipse</i></p>
+    <p><i>The Credible Machine</i></p>
 </div>
