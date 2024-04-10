@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Machine</strong></h3>
-    <p>#2916</p>
-    <p>April 5, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/machine.png">
+    <h3><strong>Types of Eclipse Photo</strong></h3>
+    <p>#2917</p>
+    <p>April 8, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/types_of_eclipse_photo.png">
     <br></br>
-    <p><i>The Credible Machine</i></p>
+    <p><i>The most rare, top-tier eclipse photo would be the Solar Earth Eclipse, but the Apollo 12 crew's attempt to capture it was marred by camera shake. They said it looked spectacular, though.</i></p>
 </div>
