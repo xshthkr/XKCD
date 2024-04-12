@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Types of Eclipse Photo</strong></h3>
-    <p>#2917</p>
-    <p>April 8, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/types_of_eclipse_photo.png">
+    <h3><strong>Tick Marks</strong></h3>
+    <p>#2918</p>
+    <p>April 10, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/tick_marks.png">
     <br></br>
-    <p><i>The most rare, top-tier eclipse photo would be the Solar Earth Eclipse, but the Apollo 12 crew's attempt to capture it was marred by camera shake. They said it looked spectacular, though.</i></p>
+    <p><i>If you're really savvy, you can hide an entire set of illicit transactions by timing them to draw what looks like a graph inset.</i></p>
 </div>
