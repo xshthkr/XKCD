@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Tick Marks</strong></h3>
-    <p>#2918</p>
-    <p>April 10, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/tick_marks.png">
+    <h3><strong>Sitting in a Tree</strong></h3>
+    <p>#2919</p>
+    <p>April 12, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/sitting_in_a_tree.png">
     <br></br>
-    <p><i>If you're really savvy, you can hide an entire set of illicit transactions by timing them to draw what looks like a graph inset.</i></p>
+    <p><i>First comes blood / Then we perish / Then comes Death in his Eternity Carriage.</i></p>
 </div>
