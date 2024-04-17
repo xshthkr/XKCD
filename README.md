@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Sitting in a Tree</strong></h3>
-    <p>#2919</p>
-    <p>April 12, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/sitting_in_a_tree.png">
+    <h3><strong>Survey Marker</strong></h3>
+    <p>#2920</p>
+    <p>April 15, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/survey_marker.png">
     <br></br>
-    <p><i>First comes blood / Then we perish / Then comes Death in his Eternity Carriage.</i></p>
+    <p><i>Fun fact: The standard North American NAD83 coordinate system is misaligned from the actual Earth, off-center by about 7 feet. Someone knows where I am, and I'm in the wrong place.</i></p>
 </div>
