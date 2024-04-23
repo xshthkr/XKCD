@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Pub Trivia</strong></h3>
-    <p>#2922</p>
-    <p>April 19, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/pub_trivia.png">
+    <h3><strong>Scary Triangles</strong></h3>
+    <p>#2923</p>
+    <p>April 22, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/scary_triangles.png">
     <br></br>
-    <p><i>Bonus question: Where is London located? (a) The British Isles (b) Great Britain and Northern Ireland (c) The UK (d) Europe (or 'the EU') (e) Greater London</i></p>
+    <p><i>Concealed mostly beneath the surface, sharks are the icebergs of the sea.</i></p>
 </div>
