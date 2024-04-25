@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Scary Triangles</strong></h3>
-    <p>#2923</p>
-    <p>April 22, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/scary_triangles.png">
+    <h3><strong>Pendulum Types</strong></h3>
+    <p>#2924</p>
+    <p>April 24, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/pendulum_types.png">
     <br></br>
-    <p><i>Concealed mostly beneath the surface, sharks are the icebergs of the sea.</i></p>
+    <p><i>The creepy fingers that grow from a vibrating cornstarch-water mix can be modeled as a chain of inverted vertical pendulums (DOI:10.1039/c4sm00265b) and are believed to be the fingers of Maxwell's Demon trying to push through into our universe.</i></p>
 </div>
