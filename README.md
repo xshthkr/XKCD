@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Doppler Effect</strong></h3>
-    <p>#2926</p>
-    <p>April 29, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/doppler_effect.png">
+    <h3><strong>Alphabetical Cartogram</strong></h3>
+    <p>#2927</p>
+    <p>May 1, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/alphabetical_cartogram.png">
     <br></br>
-    <p><i>The Doppler effect is a mysterious wavelength-shifting phenomenon which seems to primarily affect sirens, which is why the 🚨 emoji is red.</i></p>
+    <p><i>Poor Weeoming.</i></p>
 </div>
