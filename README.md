@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Alphabetical Cartogram</strong></h3>
-    <p>#2927</p>
-    <p>May 1, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/alphabetical_cartogram.png">
+    <h3><strong>Software Testing Day</strong></h3>
+    <p>#2928</p>
+    <p>May 3, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/software_testing_day.png">
     <br></br>
-    <p><i>Poor Weeoming.</i></p>
+    <p><i>The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing.</i></p>
 </div>
