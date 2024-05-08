@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Software Testing Day</strong></h3>
-    <p>#2928</p>
-    <p>May 3, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/software_testing_day.png">
+    <h3><strong>Good and Bad Ideas</strong></h3>
+    <p>#2929</p>
+    <p>May 6, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/good_and_bad_ideas.png">
     <br></br>
-    <p><i>The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing.</i></p>
+    <p><i>While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.</i></p>
 </div>
