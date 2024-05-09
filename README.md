@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Good and Bad Ideas</strong></h3>
-    <p>#2929</p>
-    <p>May 6, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/good_and_bad_ideas.png">
+    <h3><strong>Google Solar Cycle</strong></h3>
+    <p>#2930</p>
+    <p>May 8, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/google_solar_cycle.png">
     <br></br>
-    <p><i>While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.</i></p>
+    <p><i>From Google Trends, it looks like the lag between people Googling cocktail recipes and 'hangover cure' is 14 hours.</i></p>
 </div>
