@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Chasing</strong></h3>
-    <p>#2931</p>
-    <p>May 10, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/chasing.png">
+    <h3><strong>Driving PSA</strong></h3>
+    <p>#2932</p>
+    <p>May 13, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/driving_psa.png">
     <br></br>
-    <p><i>Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley.</i></p>
+    <p><i>This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time.</i></p>
 </div>
