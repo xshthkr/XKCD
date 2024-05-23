@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Ocean Loop</strong></h3>
-    <p>#2935</p>
-    <p>May 20, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/ocean_loop.png">
+    <h3><strong>Exponential Growth</strong></h3>
+    <p>#2936</p>
+    <p>May 22, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/exponential_growth.png">
     <br></br>
-    <p><i>I can't believe they wouldn't even let me hold a vote among the passengers about whether to try the loop.</i></p>
+    <p><i>Karpov's construction of a series of increasingly large rice cookers led to a protracted deadlock, but exponential growth won in the end.</i></p>
 </div>
