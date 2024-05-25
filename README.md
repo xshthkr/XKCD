@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Exponential Growth</strong></h3>
-    <p>#2936</p>
-    <p>May 22, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/exponential_growth.png">
+    <h3><strong>Room Code</strong></h3>
+    <p>#2937</p>
+    <p>May 24, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/room_code.png">
     <br></br>
-    <p><i>Karpov's construction of a series of increasingly large rice cookers led to a protracted deadlock, but exponential growth won in the end.</i></p>
+    <p><i>Sorry to make you memorize this random string of digits. If it helps, it can also double as a mnemonic for remembering your young relatives' birthdays, if they happened to have been born on February 5th, 2018.</i></p>
 </div>
