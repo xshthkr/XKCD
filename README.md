@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Modes of Transportation</strong></h3>
-    <p>#2940</p>
-    <p>May 31, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/modes_of_transportation.png">
+    <h3><strong>Cell Organelles</strong></h3>
+    <p>#2941</p>
+    <p>June 3, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/cell_organelles.png">
     <br></br>
-    <p><i>My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me.</i></p>
+    <p><i>It's believed that Golgi was originally an independent organism who was eventually absorbed into our cells, where he began work on his Apparatus.</i></p>
 </div>
