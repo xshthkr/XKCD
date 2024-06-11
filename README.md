@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Unsolved Chemistry Problems</strong></h3>
-    <p>#2943</p>
-    <p>June 7, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/unsolved_chemistry_problems.png">
+    <h3><strong>Magnet Fishing</strong></h3>
+    <p>#2944</p>
+    <p>June 10, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/magnet_fishing.png">
     <br></br>
-    <p><i>I'm an H⁺ denier, in that I refuse to consider loose protons to be real hydrogen, so I personally believe it stands for 'pretend'.</i></p>
+    <p><i>The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole.</i></p>
 </div>
