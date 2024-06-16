@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Broken Model</strong></h3>
-    <p>#2945</p>
-    <p>June 12, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/broken_model.png">
+    <h3><strong>1.2 Kilofives</strong></h3>
+    <p>#2946</p>
+    <p>June 14, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/1_2_kilofives.png">
     <br></br>
-    <p><i>In addition to eating foxes, rabbits can eat grass. The grass also eats foxes. Our equations chart the contours of Fox Hell.</i></p>
+    <p><i>'Oh yeah? Give me 50 milliscore reasons why I should stop.'</i></p>
 </div>
