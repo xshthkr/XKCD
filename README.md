@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>1.2 Kilofives</strong></h3>
-    <p>#2946</p>
-    <p>June 14, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/1_2_kilofives.png">
+    <h3><strong>Pascal's Wager Triangle</strong></h3>
+    <p>#2947</p>
+    <p>June 17, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/pascals_wager_triangle.png">
     <br></br>
-    <p><i>'Oh yeah? Give me 50 milliscore reasons why I should stop.'</i></p>
+    <p><i>In contrast to Pascal's Wager Triangle, Pascal's Triangle Wager argues that maybe God wants you to draw a triangle of numbers where each one is the sum of the two numbers above it, so you probably should, just in case.</i></p>
 </div>
