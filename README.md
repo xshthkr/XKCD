@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Network Configuration</strong></h3>
-    <p>#2949</p>
-    <p>June 21, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/network_configuration.png">
+    <h3><strong>Situation</strong></h3>
+    <p>#2950</p>
+    <p>June 24, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/situation.png">
     <br></br>
-    <p><i>If you repeatedly rerun the development of technological civilization, it turns out that for some reason the only constant is that there is always a networking utility called 'netcat', though it does a different thing in each one.</i></p>
+    <p><i>We're right under the flight path for the scheduled orbital launch, but don't worry--it's too cold out for the rockets to operate safely, so I'm sure they'll postpone.</i></p>
 </div>
