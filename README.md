@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Situation</strong></h3>
-    <p>#2950</p>
-    <p>June 24, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/situation.png">
+    <h3><strong>Bad Map Projection: Exterior Kansas</strong></h3>
+    <p>#2951</p>
+    <p>June 26, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/bad_map_projection_exterior_kansas.png">
     <br></br>
-    <p><i>We're right under the flight path for the scheduled orbital launch, but don't worry--it's too cold out for the rockets to operate safely, so I'm sure they'll postpone.</i></p>
+    <p><i>Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it's actually their outer edge.</i></p>
 </div>
