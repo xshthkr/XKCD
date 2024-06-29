@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Bad Map Projection: Exterior Kansas</strong></h3>
-    <p>#2951</p>
-    <p>June 26, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/bad_map_projection_exterior_kansas.png">
+    <h3><strong>Routine Maintenance</strong></h3>
+    <p>#2952</p>
+    <p>June 28, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/routine_maintenance.png">
     <br></br>
-    <p><i>Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it's actually their outer edge.</i></p>
+    <p><i>The worst was the time they accidentally held the can upside down and froze all the Earth's magma chambers solid.</i></p>
 </div>
