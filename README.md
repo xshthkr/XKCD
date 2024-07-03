@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Routine Maintenance</strong></h3>
-    <p>#2952</p>
-    <p>June 28, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/routine_maintenance.png">
+    <h3><strong>Alien Theories</strong></h3>
+    <p>#2953</p>
+    <p>July 1, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/alien_theories.png">
     <br></br>
-    <p><i>The worst was the time they accidentally held the can upside down and froze all the Earth's magma chambers solid.</i></p>
+    <p><i>They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.</i></p>
 </div>
