@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>A Crossword Puzzle</strong></h3>
-    <p>#2957</p>
-    <p>July 10, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/a_crossword_puzzle.png">
+    <h3><strong>Hatchery</strong></h3>
+    <p>#2958</p>
+    <p>July 12, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/hatchery.png">
     <br></br>
-    <p><i>Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality].</i></p>
+    <p><i>Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables.</i></p>
 </div>
