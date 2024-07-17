@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Hatchery</strong></h3>
-    <p>#2958</p>
-    <p>July 12, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/hatchery.png">
+    <h3><strong>Beam of Light</strong></h3>
+    <p>#2959</p>
+    <p>July 15, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/beam_of_light.png">
     <br></br>
-    <p><i>Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables.</i></p>
+    <p><i>Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."</i></p>
 </div>
