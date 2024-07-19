@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Beam of Light</strong></h3>
-    <p>#2959</p>
-    <p>July 15, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/beam_of_light.png">
+    <h3><strong>Organ Meanings</strong></h3>
+    <p>#2960</p>
+    <p>July 17, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/organ_meanings.png">
     <br></br>
-    <p><i>Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."</i></p>
+    <p><i>IMO the thymus is one of the coolest organs and we should really use it in metaphors more.</i></p>
 </div>
