@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>President Venn Diagram</strong></h3>
-    <p>#2962</p>
-    <p>July 22, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/president_venn_diagram.png">
+    <h3><strong>House Inputs and Outputs</strong></h3>
+    <p>#2963</p>
+    <p>July 24, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/house_inputs_and_outputs.png">
     <br></br>
-    <p><i>Hard to imagine political rhetoric more microtargeted at me than 'I love Venn diagrams. I really do, I love Venn diagrams. It's just something about those three circles.'</i></p>
+    <p><i>People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me.</i></p>
 </div>
