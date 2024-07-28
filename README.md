@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>House Inputs and Outputs</strong></h3>
-    <p>#2963</p>
-    <p>July 24, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/house_inputs_and_outputs.png">
+    <h3><strong>Olympic Sports</strong></h3>
+    <p>#2964</p>
+    <p>July 26, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/olympic_sports.png">
     <br></br>
-    <p><i>People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me.</i></p>
+    <p><i>Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump.</i></p>
 </div>
