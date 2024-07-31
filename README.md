@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Olympic Sports</strong></h3>
-    <p>#2964</p>
-    <p>July 26, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/olympic_sports.png">
+    <h3><strong>Chili Tornado Quake</strong></h3>
+    <p>#2965</p>
+    <p>July 29, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/chili_tornado_quake.png">
     <br></br>
-    <p><i>Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump.</i></p>
+    <p><i>Buildings constructed from softer materials were damaged by chili pepper impacts to the storm's high Richter-Fujita-Scoville-Mohs hardness rating.</i></p>
 </div>
