@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Exam Numbers</strong></h3>
-    <p>#2966</p>
-    <p>July 31, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/exam_numbers.png">
+    <h3><strong>Matter</strong></h3>
+    <p>#2967</p>
+    <p>August 2, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/matter.png">
     <br></br>
-    <p><i>Calligraphy exam: Write down the number 37, spelled out, nicely.</i></p>
+    <p><i>He was the first person to land a 900, which is especially impressive because pulling off a half-integer spin requires obeying Fermi-Dirac statistics.</i></p>
 </div>
