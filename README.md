@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Matter</strong></h3>
-    <p>#2967</p>
-    <p>August 2, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/matter.png">
+    <h3><strong>University Age</strong></h3>
+    <p>#2968</p>
+    <p>August 5, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/university_age.png">
     <br></br>
-    <p><i>He was the first person to land a 900, which is especially impressive because pulling off a half-integer spin requires obeying Fermi-Dirac statistics.</i></p>
+    <p><i>This only makes it more urgent that we adopt my roadmap for the next 10 years, which should put us solidly in the lead.</i></p>
 </div>
