@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>University Age</strong></h3>
-    <p>#2968</p>
-    <p>August 5, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/university_age.png">
+    <h3><strong>Vice President First Names</strong></h3>
+    <p>#2969</p>
+    <p>August 7, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/vice_president_first_names.png">
     <br></br>
-    <p><i>This only makes it more urgent that we adopt my roadmap for the next 10 years, which should put us solidly in the lead.</i></p>
+    <p><i>[Political pundit on the ScrabbleTV News channel] "After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim."</i></p>
 </div>
