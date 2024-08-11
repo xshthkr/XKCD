@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Vice President First Names</strong></h3>
-    <p>#2969</p>
-    <p>August 7, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/vice_president_first_names.png">
+    <h3><strong>Meteor Shower PSA</strong></h3>
+    <p>#2970</p>
+    <p>August 9, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/meteor_shower_psa.png">
     <br></br>
-    <p><i>[Political pundit on the ScrabbleTV News channel] "After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim."</i></p>
+    <p><i>If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult.</i></p>
 </div>
