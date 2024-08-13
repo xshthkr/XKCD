@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Meteor Shower PSA</strong></h3>
-    <p>#2970</p>
-    <p>August 9, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/meteor_shower_psa.png">
+    <h3><strong>Celestial Event</strong></h3>
+    <p>#2971</p>
+    <p>August 12, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/celestial_event.png">
     <br></br>
-    <p><i>If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult.</i></p>
+    <p><i>If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.</i></p>
 </div>
