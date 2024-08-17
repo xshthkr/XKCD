@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Helium Synthesis</strong></h3>
-    <p>#2972</p>
-    <p>August 14, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/helium_synthesis.png">
+    <h3><strong>Ferris Wheels</strong></h3>
+    <p>#2973</p>
+    <p>August 16, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/ferris_wheels.png">
     <br></br>
-    <p><i>Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero.</i></p>
+    <p><i>They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride.</i></p>
 </div>
