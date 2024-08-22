@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Storage Tanks</strong></h3>
-    <p>#2974</p>
-    <p>August 19, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/storage_tanks.png">
+    <h3><strong>Classical Periodic Table</strong></h3>
+    <p>#2975</p>
+    <p>August 21, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/classical_periodic_table.png">
     <br></br>
-    <p><i>We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them.</i></p>
+    <p><i>Personally I think mercury is more of a 'wet earth' hybrid element.</i></p>
 </div>
