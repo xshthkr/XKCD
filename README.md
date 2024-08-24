@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Classical Periodic Table</strong></h3>
-    <p>#2975</p>
-    <p>August 21, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/classical_periodic_table.png">
+    <h3><strong>Time Traveler Causes of Death</strong></h3>
+    <p>#2976</p>
+    <p>August 23, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png">
     <br></br>
-    <p><i>Personally I think mercury is more of a 'wet earth' hybrid element.</i></p>
+    <p><i>Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician.</i></p>
 </div>
