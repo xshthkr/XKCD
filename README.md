@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Time Traveler Causes of Death</strong></h3>
-    <p>#2976</p>
-    <p>August 23, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png">
+    <h3><strong>Three Kinds of Research</strong></h3>
+    <p>#2977</p>
+    <p>August 26, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/three_kinds_of_research.png">
     <br></br>
-    <p><i>Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician.</i></p>
+    <p><i>The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'</i></p>
 </div>
