@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Three Kinds of Research</strong></h3>
-    <p>#2977</p>
-    <p>August 26, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/three_kinds_of_research.png">
+    <h3><strong>Stranded</strong></h3>
+    <p>#2978</p>
+    <p>August 28, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/stranded.png">
     <br></br>
-    <p><i>The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'</i></p>
+    <p><i>At least they're not alone down there.</i></p>
 </div>
