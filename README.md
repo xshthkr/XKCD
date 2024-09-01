@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Stranded</strong></h3>
-    <p>#2978</p>
-    <p>August 28, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/stranded.png">
+    <h3><strong>Sky Alarm</strong></h3>
+    <p>#2979</p>
+    <p>August 30, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/sky_alarm.png">
     <br></br>
-    <p><i>At least they're not alone down there.</i></p>
+    <p><i>During the day it also activates for neat clouds and pretty sunsets.</i></p>
 </div>
