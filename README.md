@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Lava Lakes</strong></h3>
-    <p>#2980</p>
-    <p>September 2, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/lava_lakes.png">
+    <h3><strong>Slingshots</strong></h3>
+    <p>#2981</p>
+    <p>September 4, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/slingshots.png">
     <br></br>
-    <p><i>Hey, golf balls float on lava, so this should make recovering them from the hazards easier.</i></p>
+    <p><i>In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden.</i></p>
 </div>
