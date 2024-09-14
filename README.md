@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Asteroid News</strong></h3>
-    <p>#2984</p>
-    <p>September 11, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/asteroid_news.png">
+    <h3><strong>Craters</strong></h3>
+    <p>#2985</p>
+    <p>September 13, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/craters.png">
     <br></br>
-    <p><i>Their calculations show it will 'pass within the distance of the moon' but that it 'will not hit the moon, so what's the point?'</i></p>
+    <p><i>It's annoying that the Nastapoka Arc isn't a meteor impact crater, but I truly believe that--with enough time, effort, and determination--we could make it one.</i></p>
 </div>
