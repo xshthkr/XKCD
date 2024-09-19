@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Every Scientific Field</strong></h3>
-    <p>#2986</p>
-    <p>September 17, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/every_scientific_field.png">
+    <h3><strong>Tectonic Surfing</strong></h3>
+    <p>#2987</p>
+    <p>September 18, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/tectonic_surfing.png">
     <br></br>
-    <p><i>Conveniently for everyone, it turns out that dark energy is produced by subterranean parasitoid wasps.</i></p>
+    <p><i>The worst is when you wipe out in the barrel and you're trapped for several million years until erosion frees you.</i></p>
 </div>
