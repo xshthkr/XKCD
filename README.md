@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Maslow's Pyramid</strong></h3>
-    <p>#2988</p>
-    <p>September 20, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/maslows_pyramid.png">
+    <h3><strong>Physics Lab Thermostat</strong></h3>
+    <p>#2989</p>
+    <p>September 23, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/physics_lab_thermostat.png">
     <br></br>
-    <p><i>The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps.</i></p>
+    <p><i>Hopefully the HVAC people set it to only affect the AIR in the room.</i></p>
 </div>
