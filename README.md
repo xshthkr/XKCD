@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Physics Lab Thermostat</strong></h3>
-    <p>#2989</p>
-    <p>September 23, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/physics_lab_thermostat.png">
+    <h3><strong>Late Cenozoic</strong></h3>
+    <p>#2990</p>
+    <p>September 25, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/late_cenozoic.png">
     <br></br>
-    <p><i>Hopefully the HVAC people set it to only affect the AIR in the room.</i></p>
+    <p><i>Our nucleic acid recovery techinques found a great deal of homo sapiens DNA incorporated into the fossils, particularly the ones containing high levels of resin, leading to the theory that these dinosaurs preyed on the once-dominant primates.</i></p>
 </div>
