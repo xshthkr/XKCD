@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Late Cenozoic</strong></h3>
-    <p>#2990</p>
-    <p>September 25, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/late_cenozoic.png">
+    <h3><strong>Beamsplitters</strong></h3>
+    <p>#2991</p>
+    <p>September 27, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/beamsplitters.png">
     <br></br>
-    <p><i>Our nucleic acid recovery techinques found a great deal of homo sapiens DNA incorporated into the fossils, particularly the ones containing high levels of resin, leading to the theory that these dinosaurs preyed on the once-dominant primates.</i></p>
+    <p><i>Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.</i></p>
 </div>
