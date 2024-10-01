@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Beamsplitters</strong></h3>
-    <p>#2991</p>
-    <p>September 27, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/beamsplitters.png">
+    <h3><strong>UK Coal</strong></h3>
+    <p>#2992</p>
+    <p>September 30, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/uk_coal.png">
     <br></br>
-    <p><i>Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.</i></p>
+    <p><i>The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.</i></p>
 </div>
