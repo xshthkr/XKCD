@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>UK Coal</strong></h3>
-    <p>#2992</p>
-    <p>September 30, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/uk_coal.png">
+    <h3><strong>Ingredients</strong></h3>
+    <p>#2993</p>
+    <p>October 2, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/ingredients.png">
     <br></br>
-    <p><i>The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.</i></p>
+    <p><i>Add main-belt asteroids to taste.</i></p>
 </div>
