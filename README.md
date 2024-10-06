@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Ingredients</strong></h3>
-    <p>#2993</p>
-    <p>October 2, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/ingredients.png">
+    <h3><strong>Númenor Margaritaville</strong></h3>
+    <p>#2994</p>
+    <p>October 4, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/numenor_margaritaville.png">
     <br></br>
-    <p><i>Add main-belt asteroids to taste.</i></p>
+    <p><i>I see white shores, and beyond it, a far green country under a tequila sunrise.</i></p>
 </div>
