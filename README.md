@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>CIDABM</strong></h3>
-    <p>#2996</p>
-    <p>October 9, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/cidabm.png">
+    <h3><strong>Solar Protons</strong></h3>
+    <p>#2997</p>
+    <p>October 11, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/solar_protons.png">
     <br></br>
-    <p><i>There's a heated debate over whether the big island of Tierra del Fuego should qualify for membership.</i></p>
+    <p><i>If any of you want to meet some cool local oxygen atoms, I can introduce you!</i></p>
 </div>
