@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Solar Protons</strong></h3>
-    <p>#2997</p>
-    <p>October 11, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/solar_protons.png">
+    <h3><strong>Ravioli-Shaped Objects</strong></h3>
+    <p>#2998</p>
+    <p>October 14, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/ravioli_shaped_objects.png">
     <br></br>
-    <p><i>If any of you want to meet some cool local oxygen atoms, I can introduce you!</i></p>
+    <p><i>It's a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond.</i></p>
 </div>
