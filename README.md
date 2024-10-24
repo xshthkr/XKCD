@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Temperature Scales</strong></h3>
-    <p>#3001</p>
-    <p>October 21, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/temperature_scales.png">
+    <h3><strong>RNAWorld</strong></h3>
+    <p>#3002</p>
+    <p>October 23, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/rnaworld.png">
     <br></br>
-    <p><i>In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed.</i></p>
+    <p><i>Disney lore: Canonically, because of how Elsa's abiogenesis powers work, Olaf is an RNA-only organism.</i></p>
 </div>
