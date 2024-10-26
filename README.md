@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>RNAWorld</strong></h3>
-    <p>#3002</p>
-    <p>October 23, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/rnaworld.png">
+    <h3><strong>Sandwich Helix</strong></h3>
+    <p>#3003</p>
+    <p>October 25, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/sandwich_helix.png">
     <br></br>
-    <p><i>Disney lore: Canonically, because of how Elsa's abiogenesis powers work, Olaf is an RNA-only organism.</i></p>
+    <p><i>The number one rule of string manipulation is that youâ€™ve got to specify your encodings.</i></p>
 </div>
