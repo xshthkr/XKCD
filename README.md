@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Sandwich Helix</strong></h3>
-    <p>#3003</p>
-    <p>October 25, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/sandwich_helix.png">
+    <h3><strong>Wells</strong></h3>
+    <p>#3004</p>
+    <p>October 28, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/wells.png">
     <br></br>
-    <p><i>The number one rule of string manipulation is that youâ€™ve got to specify your encodings.</i></p>
+    <p><i>You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead.</i></p>
 </div>
