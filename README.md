@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Wells</strong></h3>
-    <p>#3004</p>
-    <p>October 28, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/wells.png">
+    <h3><strong>Disposal</strong></h3>
+    <p>#3005</p>
+    <p>October 30, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/disposal.png">
     <br></br>
-    <p><i>You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead.</i></p>
+    <p><i>We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect.</i></p>
 </div>
