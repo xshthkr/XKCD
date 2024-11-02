@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Disposal</strong></h3>
-    <p>#3005</p>
-    <p>October 30, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/disposal.png">
+    <h3><strong>Demons</strong></h3>
+    <p>#3006</p>
+    <p>November 1, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/demons.png">
     <br></br>
-    <p><i>We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect.</i></p>
+    <p><i>Though they do appreciate how much he improved the heating system for the flame pit.</i></p>
 </div>
