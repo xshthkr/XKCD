@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Probabilistic Uncertainty</strong></h3>
-    <p>#3007</p>
-    <p>November 4, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/probabilistic_uncertainty.png">
+    <h3><strong>Proterozoic Rocks</strong></h3>
+    <p>#3008</p>
+    <p>November 6, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/proterozoic_rocks.png">
     <br></br>
-    <p><i>"One popular strategy is to enter an emotional spiral. Could that be the right approach? We contacted several researchers who are experts in emotional spirals to ask them, but none of them were in a state to speak with us."</i></p>
+    <p><i>These rocks are from a time before eyes, brains, and bones, pieces of a land warmed by an unseen sun.</i></p>
 </div>
