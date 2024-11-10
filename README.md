@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Proterozoic Rocks</strong></h3>
-    <p>#3008</p>
-    <p>November 6, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/proterozoic_rocks.png">
+    <h3><strong>Number Shortage</strong></h3>
+    <p>#3009</p>
+    <p>November 8, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/number_shortage.png">
     <br></br>
-    <p><i>These rocks are from a time before eyes, brains, and bones, pieces of a land warmed by an unseen sun.</i></p>
+    <p><i>"10 minutes ago we were down to only 2 0s!" "How many do we have now?" "I ... don't know!!"</i></p>
 </div>
