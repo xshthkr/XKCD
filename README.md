@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Number Shortage</strong></h3>
-    <p>#3009</p>
-    <p>November 8, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/number_shortage.png">
+    <h3><strong>Geometriphylogenetics</strong></h3>
+    <p>#3010</p>
+    <p>November 11, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/geometriphylogenetics.png">
     <br></br>
-    <p><i>"10 minutes ago we were down to only 2 0s!" "How many do we have now?" "I ... don't know!!"</i></p>
+    <p><i>There's a maximum likelihood that I'm doing phylogenetics wrong.</i></p>
 </div>
