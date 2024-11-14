@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Geometriphylogenetics</strong></h3>
-    <p>#3010</p>
-    <p>November 11, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/geometriphylogenetics.png">
+    <h3><strong>Europa Clipper</strong></h3>
+    <p>#3011</p>
+    <p>November 13, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/europa_clipper.png">
     <br></br>
-    <p><i>There's a maximum likelihood that I'm doing phylogenetics wrong.</i></p>
+    <p><i>They had BETTER make this a sample return mission.</i></p>
 </div>
