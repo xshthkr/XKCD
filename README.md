@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Europa Clipper</strong></h3>
-    <p>#3011</p>
-    <p>November 13, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/europa_clipper.png">
+    <h3><strong>The Future of Orion</strong></h3>
+    <p>#3012</p>
+    <p>November 15, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/the_future_of_orion.png">
     <br></br>
-    <p><i>They had BETTER make this a sample return mission.</i></p>
+    <p><i>Dinosaur Cosmics</i></p>
 </div>
