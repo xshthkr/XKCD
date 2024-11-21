@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Kedging Cannon</strong></h3>
-    <p>#3013</p>
-    <p>November 18, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/kedging_cannon.png">
+    <h3><strong>Arizona Chess</strong></h3>
+    <p>#3014</p>
+    <p>November 20, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/arizona_chess.png">
     <br></br>
-    <p><i>The real key was inventing the windmill-powered winch.</i></p>
+    <p><i>Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back.</i></p>
 </div>
