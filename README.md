@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Arizona Chess</strong></h3>
-    <p>#3014</p>
-    <p>November 20, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/arizona_chess.png">
+    <h3><strong>D&D Combinatorics</strong></h3>
+    <p>#3015</p>
+    <p>November 22, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/dnd_combinatorics.png">
     <br></br>
-    <p><i>Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back.</i></p>
+    <p><i>Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys.</i></p>
 </div>
