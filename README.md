@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Cold Air</strong></h3>
-    <p>#3016</p>
-    <p>November 25, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/cold_air.png">
+    <h3><strong>Neutrino Modem</strong></h3>
+    <p>#3017</p>
+    <p>November 27, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/neutrino_modem.png">
     <br></br>
-    <p><i>We also should really have checked that the old water tower was disconnected from the water system before we started filling it with compressed air.</i></p>
+    <p><i>Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction.</i></p>
 </div>
