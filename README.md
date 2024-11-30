@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Neutrino Modem</strong></h3>
-    <p>#3017</p>
-    <p>November 27, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/neutrino_modem.png">
+    <h3><strong>Second Stage</strong></h3>
+    <p>#3018</p>
+    <p>November 29, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/second_stage.png">
     <br></br>
-    <p><i>Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction.</i></p>
+    <p><i>Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time.</i></p>
 </div>
