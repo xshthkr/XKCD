@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Second Stage</strong></h3>
-    <p>#3018</p>
-    <p>November 29, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/second_stage.png">
+    <h3><strong>Advent Calendar Advent Calendar</strong></h3>
+    <p>#3019</p>
+    <p>December 2, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png">
     <br></br>
-    <p><i>Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time.</i></p>
+    <p><i>The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song.</i></p>
 </div>
