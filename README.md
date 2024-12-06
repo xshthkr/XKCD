@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Advent Calendar Advent Calendar</strong></h3>
-    <p>#3019</p>
-    <p>December 2, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png">
+    <h3><strong>Infinite Armada Chess</strong></h3>
+    <p>#3020</p>
+    <p>December 4, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/infinite_armada_chess.png">
     <br></br>
-    <p><i>The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song.</i></p>
+    <p><i>Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access</i></p>
 </div>
