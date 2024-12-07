@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Infinite Armada Chess</strong></h3>
-    <p>#3020</p>
-    <p>December 4, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/infinite_armada_chess.png">
+    <h3><strong>Seismologists</strong></h3>
+    <p>#3021</p>
+    <p>December 6, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/seismologists.png">
     <br></br>
-    <p><i>Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access</i></p>
+    <p><i>And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'.</i></p>
 </div>
