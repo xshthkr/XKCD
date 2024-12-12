@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Making Tea</strong></h3>
-    <p>#3022</p>
-    <p>December 9, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/making_tea.png">
+    <h3><strong>The Maritime Approximation</strong></h3>
+    <p>#3023</p>
+    <p>December 11, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/the_maritime_approximation.png">
     <br></br>
-    <p><i>No, of course we don't microwave the mug WITH the teabag in it. We microwave the teabag separately.</i></p>
+    <p><i>It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.</i></p>
 </div>
