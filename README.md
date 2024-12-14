@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>The Maritime Approximation</strong></h3>
-    <p>#3023</p>
-    <p>December 11, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/the_maritime_approximation.png">
+    <h3><strong>METAR</strong></h3>
+    <p>#3024</p>
+    <p>December 13, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/metar.png">
     <br></br>
-    <p><i>It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.</i></p>
+    <p><i>In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM.</i></p>
 </div>
