@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Phase Change</strong></h3>
-    <p>#3025</p>
-    <p>December 16, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/phase_change.png">
+    <h3><strong>Linear Sort</strong></h3>
+    <p>#3026</p>
+    <p>December 18, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/linear_sort.png">
     <br></br>
-    <p><i>Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation.</i></p>
+    <p><i>The best case is O(n), and the worst case is that someone checks why.</i></p>
 </div>
