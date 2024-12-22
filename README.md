@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Linear Sort</strong></h3>
-    <p>#3026</p>
-    <p>December 18, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/linear_sort.png">
+    <h3><strong>Exclusion Principle</strong></h3>
+    <p>#3027</p>
+    <p>December 20, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/exclusion_principle.png">
     <br></br>
-    <p><i>The best case is O(n), and the worst case is that someone checks why.</i></p>
+    <p><i>Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way.</i></p>
 </div>
