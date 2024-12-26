@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>D&D Roll</strong></h3>
-    <p>#3028</p>
-    <p>December 23, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/dnd_roll.png">
+    <h3><strong>Sun Avoidance</strong></h3>
+    <p>#3029</p>
+    <p>December 25, 2024</p>
+    <img src="https://imgs.xkcd.com/comics/sun_avoidance.png">
     <br></br>
-    <p><i>Under some circumstances, if you throw a D8 and then a D12 at an enemy, thanks to the D8's greater pointiness you actually have to roll a D12 and D8 respectively to determine damage.</i></p>
+    <p><i>C'mon, ESA Solar Orbiter team, just give the Parker probe a LITTLE nudge at aphelion. Crash it into the sun. Fulfill the dream of Icarus. It is your destiny.</i></p>
 </div>
