@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Time Capsule Instructions</strong></h3>
-    <p>#3031</p>
-    <p>December 30, 2024</p>
-    <img src="https://imgs.xkcd.com/comics/time_capsule_instructions.png">
+    <h3><strong>Skew-T Log-P</strong></h3>
+    <p>#3032</p>
+    <p>January 1, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/skew_t_log_p.png">
     <br></br>
-    <p><i>Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES.</i></p>
+    <p><i>The most important quantity for meteorologists is of course the product of latent pressure and temperostrophic enthalpy, though 'how nice the weather is' is a close second.</i></p>
 </div>
