@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Trimix</strong></h3>
-    <p>#3035</p>
-    <p>January 8, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/trimix.png">
+    <h3><strong>Chess Zoo</strong></h3>
+    <p>#3036</p>
+    <p>January 10, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/chess_zoo.png">
     <br></br>
-    <p><i>You don't want the nitrogen percentage to be too high or you run the risk of eutrophication.</i></p>
+    <p><i>The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity.</i></p>
 </div>
