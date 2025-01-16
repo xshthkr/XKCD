@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Radon</strong></h3>
-    <p>#3037</p>
-    <p>January 13, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/radon.png">
+    <h3><strong>Uncanceled Units</strong></h3>
+    <p>#3038</p>
+    <p>January 15, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/uncanceled_units.png">
     <br></br>
-    <p><i>A good ²³⁸Umbrella policy should cover it.</i></p>
+    <p><i>Speed limit c arcminutes^2 per steradian</i></p>
 </div>
