@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Uncanceled Units</strong></h3>
-    <p>#3038</p>
-    <p>January 15, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/uncanceled_units.png">
+    <h3><strong>Human Altitude</strong></h3>
+    <p>#3039</p>
+    <p>January 17, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/human_altitude.png">
     <br></br>
-    <p><i>Speed limit c arcminutes^2 per steradian</i></p>
+    <p><i>I wonder what surviving human held the record before balloons (excluding edge cases like jumping gaps on a mountain bridge). Probably it was someone falling from a cliff into snow or water, but maybe it involved something weird like a gunpowder explosion or volcano.</i></p>
 </div>
