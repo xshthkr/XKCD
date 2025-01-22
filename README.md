@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Human Altitude</strong></h3>
-    <p>#3039</p>
-    <p>January 17, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/human_altitude.png">
+    <h3><strong>Chemical Formulas</strong></h3>
+    <p>#3040</p>
+    <p>January 20, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/chemical_formulas.png">
     <br></br>
-    <p><i>I wonder what surviving human held the record before balloons (excluding edge cases like jumping gaps on a mountain bridge). Probably it was someone falling from a cliff into snow or water, but maybe it involved something weird like a gunpowder explosion or volcano.</i></p>
+    <p><i>Can you pass the nackle?</i></p>
 </div>
