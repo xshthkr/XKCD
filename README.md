@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Chemical Formulas</strong></h3>
-    <p>#3040</p>
-    <p>January 20, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/chemical_formulas.png">
+    <h3><strong>Unit Circle</strong></h3>
+    <p>#3041</p>
+    <p>January 22, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/unit_circle.png">
     <br></br>
-    <p><i>Can you pass the nackle?</i></p>
+    <p><i>They're continuing to search for a square with the same area as the circle, as efforts to construct one have run into difficulties.</i></p>
 </div>
