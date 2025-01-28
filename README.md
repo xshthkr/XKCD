@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>T. Rex Evolution</strong></h3>
-    <p>#3042</p>
-    <p>January 24, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/t_rex_evolution.png">
+    <h3><strong>Muons</strong></h3>
+    <p>#3043</p>
+    <p>January 27, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/muons.png">
     <br></br>
-    <p><i>Unfortunately, body size and bite force continue to increase.</i></p>
+    <p><i>Update: I've been banned from the physics department for the way I pronounce "Doppler effect."</i></p>
 </div>
