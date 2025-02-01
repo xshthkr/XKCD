@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Humidifier Review</strong></h3>
-    <p>#3044</p>
-    <p>January 29, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/humidifier_review.png">
+    <h3><strong>AlphaMove</strong></h3>
+    <p>#3045</p>
+    <p>January 31, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/alphamove.png">
     <br></br>
-    <p><i>They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation.</i></p>
+    <p><i>It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four.</i></p>
 </div>
