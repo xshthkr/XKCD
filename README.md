@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>AlphaMove</strong></h3>
-    <p>#3045</p>
-    <p>January 31, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/alphamove.png">
+    <h3><strong>Stromatolites</strong></h3>
+    <p>#3046</p>
+    <p>February 3, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/stromatolites.png">
     <br></br>
-    <p><i>It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four.</i></p>
+    <p><i>If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.</i></p>
 </div>
