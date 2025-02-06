@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Stromatolites</strong></h3>
-    <p>#3046</p>
-    <p>February 3, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/stromatolites.png">
+    <h3><strong>Rotary Tool</strong></h3>
+    <p>#3047</p>
+    <p>February 5, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/rotary_tool.png">
     <br></br>
-    <p><i>If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.</i></p>
+    <p><i>It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.</i></p>
 </div>
