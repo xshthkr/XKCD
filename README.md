@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Incoming Asteroid</strong></h3>
-    <p>#3049</p>
-    <p>February 10, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/incoming_asteroid.png">
+    <h3><strong>Atom</strong></h3>
+    <p>#3050</p>
+    <p>February 12, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/atom.png">
     <br></br>
-    <p><i>The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit.</i></p>
+    <p><i>What's weirder is that muons turned out to be INCREDIBLY cute.</i></p>
 </div>
