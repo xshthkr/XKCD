@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Atom</strong></h3>
-    <p>#3050</p>
-    <p>February 12, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/atom.png">
+    <h3><strong>Hardwood</strong></h3>
+    <p>#3051</p>
+    <p>February 14, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/hardwood.png">
     <br></br>
-    <p><i>What's weirder is that muons turned out to be INCREDIBLY cute.</i></p>
+    <p><i>They may technically have been softwoods at some point, but they definitely aren't now.</i></p>
 </div>
