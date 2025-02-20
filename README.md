@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Archive Request</strong></h3>
-    <p>#3052</p>
-    <p>February 17, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/archive_request.png">
+    <h3><strong>KM3NeT</strong></h3>
+    <p>#3053</p>
+    <p>February 19, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/km3net.png">
     <br></br>
-    <p><i>They just want researchers in the enclosure to feel enriched and stimulated. ('The Enclosure' is what archivists call the shadowy world outside their archives in which so many people are trapped.)</i></p>
+    <p><i>Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.</i></p>
 </div>
