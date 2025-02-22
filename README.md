@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>KM3NeT</strong></h3>
-    <p>#3053</p>
-    <p>February 19, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/km3net.png">
+    <h3><strong>Scream Cipher</strong></h3>
+    <p>#3054</p>
+    <p>February 21, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/scream_cipher.png">
     <br></br>
-    <p><i>Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.</i></p>
+    <p><i>AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!</i></p>
 </div>
