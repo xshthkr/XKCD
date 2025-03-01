@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>RNA</strong></h3>
-    <p>#3056</p>
-    <p>February 26, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/rna.png">
+    <h3><strong>Excusing Yourself</strong></h3>
+    <p>#3057</p>
+    <p>February 28, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/excusing_yourself.png">
     <br></br>
-    <p><i>2040s: RNA formed the basis for life each of the five known times it arose on the early Earth.</i></p>
+    <p><i>The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door.</i></p>
 </div>
