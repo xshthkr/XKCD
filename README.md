@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Tall Structures</strong></h3>
-    <p>#3058</p>
-    <p>March 3, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/tall_structures.png">
+    <h3><strong>Water Damage</strong></h3>
+    <p>#3059</p>
+    <p>March 5, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/water_damage.png">
     <br></br>
-    <p><i>Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed.</i></p>
+    <p><i>Your homeowner's insurance might cover it, but be sure to check the subductible.</i></p>
 </div>
