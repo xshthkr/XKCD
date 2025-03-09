@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Water Damage</strong></h3>
-    <p>#3059</p>
-    <p>March 5, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/water_damage.png">
+    <h3><strong>Omniroll</strong></h3>
+    <p>#3060</p>
+    <p>March 7, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/omniroll.png">
     <br></br>
-    <p><i>Your homeowner's insurance might cover it, but be sure to check the subductible.</i></p>
+    <p><i>It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls.</i></p>
 </div>
