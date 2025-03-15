@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Off By One</strong></h3>
-    <p>#3062</p>
-    <p>March 12, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/off_by_one.png">
+    <h3><strong>Planet Definitions</strong></h3>
+    <p>#3063</p>
+    <p>March 14, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/planet_definitions.png">
     <br></br>
-    <p><i>It does come at the small cost of a LOT more off-by-40-or-50 errors.</i></p>
+    <p><i>Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.</i></p>
 </div>
