@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Planet Definitions</strong></h3>
-    <p>#3063</p>
-    <p>March 14, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/planet_definitions.png">
+    <h3><strong>Lungfish</strong></h3>
+    <p>#3064</p>
+    <p>March 17, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/lungfish.png">
     <br></br>
-    <p><i>Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.</i></p>
+    <p><i>I know having so many base pairs makes rebasing complicated, but you're in Bilateria, so shouldn't you at LEAST be better at using git head?</i></p>
 </div>
