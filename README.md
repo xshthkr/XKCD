@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Lungfish</strong></h3>
-    <p>#3064</p>
-    <p>March 17, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/lungfish.png">
+    <h3><strong>Square Units</strong></h3>
+    <p>#3065</p>
+    <p>March 19, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/square_units.png">
     <br></br>
-    <p><i>I know having so many base pairs makes rebasing complicated, but you're in Bilateria, so shouldn't you at LEAST be better at using git head?</i></p>
+    <p><i>The biggest I've seen in a published source in the wild is an 80-fold error in a reported distance, which I think came from a series of at least three unit conversions and area/length misinterpretations.</i></p>
 </div>
