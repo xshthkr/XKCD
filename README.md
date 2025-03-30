@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Rock Identification</strong></h3>
-    <p>#3068</p>
-    <p>March 26, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/rock_identification.png">
+    <h3><strong>Terror Bird</strong></h3>
+    <p>#3069</p>
+    <p>March 28, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/terror_bird.png">
     <br></br>
-    <p><i>'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'</i></p>
+    <p><i>There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.</i></p>
 </div>
