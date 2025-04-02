@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Terror Bird</strong></h3>
-    <p>#3069</p>
-    <p>March 28, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/terror_bird.png">
+    <h3><strong>Orogeny</strong></h3>
+    <p>#3070</p>
+    <p>March 31, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/orogeny.png">
     <br></br>
-    <p><i>There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.</i></p>
+    <p><i>Most properties can only boast INDOOR heated floors.</i></p>
 </div>
