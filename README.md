@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Decay Chain</strong></h3>
-    <p>#3071</p>
-    <p>April 2, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/decay_chain.png">
+    <h3><strong>Stargazing 4</strong></h3>
+    <p>#3072</p>
+    <p>April 4, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/stargazing_4.png">
     <br></br>
-    <p><i>If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model.</i></p>
+    <p><i>We haven't actually seen a star fall in since we invented telescopes, but I have a list of ones I'm really hoping are next.</i></p>
 </div>
