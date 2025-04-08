@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Stargazing 4</strong></h3>
-    <p>#3072</p>
-    <p>April 4, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/stargazing_4.png">
+    <h3><strong>Tariffs</strong></h3>
+    <p>#3073</p>
+    <p>April 7, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/tariffs.png">
     <br></br>
-    <p><i>We haven't actually seen a star fall in since we invented telescopes, but I have a list of ones I'm really hoping are next.</i></p>
+    <p><i>[later] I don't get why our pizza slices have such terrible reviews; the geotextile-infused sauce gives the toppings incredible slope stability!</i></p>
 </div>
