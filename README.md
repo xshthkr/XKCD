@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Push Notifications</strong></h3>
-    <p>#3074</p>
-    <p>April 9, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/push_notifications.png">
+    <h3><strong>Anachronym Challenge</strong></h3>
+    <p>#3075</p>
+    <p>April 11, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/anachronym_challenge.png">
     <br></br>
-    <p><i>NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!</i></p>
+    <p><i>I have to pay with paper money.</i></p>
 </div>
