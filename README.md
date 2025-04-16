@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Anachronym Challenge</strong></h3>
-    <p>#3075</p>
-    <p>April 11, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/anachronym_challenge.png">
+    <h3><strong>The Roads Both Taken</strong></h3>
+    <p>#3076</p>
+    <p>April 14, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/the_roads_both_taken.png">
     <br></br>
-    <p><i>I have to pay with paper money.</i></p>
+    <p><i>When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo.</i></p>
 </div>
