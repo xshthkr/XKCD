@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>The Roads Both Taken</strong></h3>
-    <p>#3076</p>
-    <p>April 14, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/the_roads_both_taken.png">
+    <h3><strong>de Sitter</strong></h3>
+    <p>#3077</p>
+    <p>April 16, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/de_sitter.png">
     <br></br>
-    <p><i>When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo.</i></p>
+    <p><i>Our anti-de Sitter club is small at the moment, but I've started corresponding with the conformal field theory people.</i></p>
 </div>
