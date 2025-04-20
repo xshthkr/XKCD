@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>de Sitter</strong></h3>
-    <p>#3077</p>
-    <p>April 16, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/de_sitter.png">
+    <h3><strong>Anchor Bolts</strong></h3>
+    <p>#3078</p>
+    <p>April 18, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/anchor_bolts.png">
     <br></br>
-    <p><i>Our anti-de Sitter club is small at the moment, but I've started corresponding with the conformal field theory people.</i></p>
+    <p><i>The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.</i></p>
 </div>
