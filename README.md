@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Anchor Bolts</strong></h3>
-    <p>#3078</p>
-    <p>April 18, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/anchor_bolts.png">
+    <h3><strong>Air Fact</strong></h3>
+    <p>#3079</p>
+    <p>April 21, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/air_fact.png">
     <br></br>
-    <p><i>The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.</i></p>
+    <p><i>'Wow, that must be why you swallow so many of them per year!' 'No, that's spiders. You swallow WAY more ants.'</i></p>
 </div>
