@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Tennis Balls</strong></h3>
-    <p>#3080</p>
-    <p>April 23, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/tennis_balls.png">
+    <h3><strong>PhD Timeline</strong></h3>
+    <p>#3081</p>
+    <p>April 25, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/phd_timeline.png">
     <br></br>
-    <p><i>After initial tests created a series of large holes in the wall of the lab, the higher-power Scanning Tunneling Tennis Ball Microscope project was quickly shut down.</i></p>
+    <p><i>Rümeysa Öztürk was grabbed off the street in my town one month ago.</i></p>
 </div>
