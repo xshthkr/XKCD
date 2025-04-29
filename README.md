@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>PhD Timeline</strong></h3>
-    <p>#3081</p>
-    <p>April 25, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/phd_timeline.png">
+    <h3><strong>Chess Position</strong></h3>
+    <p>#3082</p>
+    <p>April 28, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/chess_position.png">
     <br></br>
-    <p><i>Rümeysa Öztürk was grabbed off the street in my town one month ago.</i></p>
+    <p><i>It's important to learn the moves that take you into the vortex, but it's best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it.</i></p>
 </div>
