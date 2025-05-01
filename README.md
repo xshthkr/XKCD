@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Chess Position</strong></h3>
-    <p>#3082</p>
-    <p>April 28, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/chess_position.png">
+    <h3><strong>Jupiter Core</strong></h3>
+    <p>#3083</p>
+    <p>April 30, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/jupiter_core.png">
     <br></br>
-    <p><i>It's important to learn the moves that take you into the vortex, but it's best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it.</i></p>
+    <p><i>Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System.</i></p>
 </div>
