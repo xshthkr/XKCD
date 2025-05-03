@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Jupiter Core</strong></h3>
-    <p>#3083</p>
-    <p>April 30, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/jupiter_core.png">
+    <h3><strong>Unstoppable Force and Immovable Object</strong></h3>
+    <p>#3084</p>
+    <p>May 2, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/unstoppable_force_and_immovable_object.png">
     <br></br>
-    <p><i>Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System.</i></p>
+    <p><i>Unstoppable force-carrying particles can't interact with immovable matter by definition.</i></p>
 </div>
