@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>About 20 Pounds</strong></h3>
-    <p>#3085</p>
-    <p>May 5, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/about_20_pounds.png">
+    <h3><strong>Globe Safety</strong></h3>
+    <p>#3086</p>
+    <p>May 7, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/globe_safety.png">
     <br></br>
-    <p><i>In addition to gravity, burritos interact through the strong, weak, and electromagnetic forces, which is believed to be a major contributor to their popularity.</i></p>
+    <p><i>Frankly, given their extreme gravitational fields and general instability, even 12-inch globes should probably be banned.</i></p>
 </div>
