@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Pascal's Law</strong></h3>
-    <p>#3087</p>
-    <p>May 9, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/pascals_law.png">
+    <h3><strong>Deposition</strong></h3>
+    <p>#3088</p>
+    <p>May 12, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/deposition.png">
     <br></br>
-    <p><i>Reductio ad absurdum fails when reality is absurd.</i></p>
+    <p><i>P.S. If you have time travel, come to my birthday party Saturday!</i></p>
 </div>
