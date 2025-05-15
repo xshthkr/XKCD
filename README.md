@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Deposition</strong></h3>
-    <p>#3088</p>
-    <p>May 12, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/deposition.png">
+    <h3><strong>Modern</strong></h3>
+    <p>#3089</p>
+    <p>May 14, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/modern.png">
     <br></br>
-    <p><i>P.S. If you have time travel, come to my birthday party Saturday!</i></p>
+    <p><i>Scholars are still debating whether the current period is post-postmodern or neo-contemporary.</i></p>
 </div>
