@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Modern</strong></h3>
-    <p>#3089</p>
-    <p>May 14, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/modern.png">
+    <h3><strong>Sail Physics</strong></h3>
+    <p>#3090</p>
+    <p>May 16, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/sail_physics.png">
     <br></br>
-    <p><i>Scholars are still debating whether the current period is post-postmodern or neo-contemporary.</i></p>
+    <p><i>Turning in other directions can be accomplished by using a magnetized centerboard and ocean currents, since a current flowing through a magnetic field induces a Laplace force.</i></p>
 </div>
