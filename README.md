@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Sail Physics</strong></h3>
-    <p>#3090</p>
-    <p>May 16, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/sail_physics.png">
+    <h3><strong>Renormalization</strong></h3>
+    <p>#3091</p>
+    <p>May 19, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/renormalization.png">
     <br></br>
-    <p><i>Turning in other directions can be accomplished by using a magnetized centerboard and ocean currents, since a current flowing through a magnetic field induces a Laplace force.</i></p>
+    <p><i>Applying renormalization to bullies successfully transformed Pete & Pete's Endless Mike into Finite Mike.</i></p>
 </div>
