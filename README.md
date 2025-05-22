@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Renormalization</strong></h3>
-    <p>#3091</p>
-    <p>May 19, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/renormalization.png">
+    <h3><strong>Baker's Units</strong></h3>
+    <p>#3092</p>
+    <p>May 21, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/bakers_units.png">
     <br></br>
-    <p><i>Applying renormalization to bullies successfully transformed Pete & Pete's Endless Mike into Finite Mike.</i></p>
+    <p><i>169 is a baker's gross.</i></p>
 </div>
