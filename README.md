@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Baker's Units</strong></h3>
-    <p>#3092</p>
-    <p>May 21, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/bakers_units.png">
+    <h3><strong>Drafting</strong></h3>
+    <p>#3093</p>
+    <p>May 23, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/drafting.png">
     <br></br>
-    <p><i>169 is a baker's gross.</i></p>
+    <p><i>A 5% efficiency gain at the cost of a 99% efficiency loss</i></p>
 </div>
