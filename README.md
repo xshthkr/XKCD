@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Drafting</strong></h3>
-    <p>#3093</p>
-    <p>May 23, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/drafting.png">
+    <h3><strong>Mass Spec</strong></h3>
+    <p>#3094</p>
+    <p>May 26, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/mass_spec.png">
     <br></br>
-    <p><i>A 5% efficiency gain at the cost of a 99% efficiency loss</i></p>
+    <p><i>Patients at least found it to be an improvement over Millikan's incredibly messy and unpleasant oil drop suspension procedure.</i></p>
 </div>
