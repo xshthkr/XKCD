@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Mass Spec</strong></h3>
-    <p>#3094</p>
-    <p>May 26, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/mass_spec.png">
+    <h3><strong>Archaea</strong></h3>
+    <p>#3095</p>
+    <p>May 28, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/archaea.png">
     <br></br>
-    <p><i>Patients at least found it to be an improvement over Millikan's incredibly messy and unpleasant oil drop suspension procedure.</i></p>
+    <p><i>Under the two-domain system, anyone who punches you is technically an Archaean pathogen.</i></p>
 </div>
