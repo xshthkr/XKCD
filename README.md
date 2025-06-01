@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Archaea</strong></h3>
-    <p>#3095</p>
-    <p>May 28, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/archaea.png">
+    <h3><strong>Check Engine</strong></h3>
+    <p>#3096</p>
+    <p>May 30, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/check_engine.png">
     <br></br>
-    <p><i>Under the two-domain system, anyone who punches you is technically an Archaean pathogen.</i></p>
+    <p><i>They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.</i></p>
 </div>
