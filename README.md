@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Check Engine</strong></h3>
-    <p>#3096</p>
-    <p>May 30, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/check_engine.png">
+    <h3><strong>Bridge Types</strong></h3>
+    <p>#3097</p>
+    <p>June 2, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/bridge_types.png">
     <br></br>
-    <p><i>They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.</i></p>
+    <p><i>Pontoon bridges are just linear open-sided waterbeds.</i></p>
 </div>
