@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Trojan Horse</strong></h3>
-    <p>#3098</p>
-    <p>June 4, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/trojan_horse.png">
+    <h3><strong>Neighbor-Source Heat Pump</strong></h3>
+    <p>#3099</p>
+    <p>June 6, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/neighbor_source_heat_pump.png">
     <br></br>
-    <p><i>Ultimately, history would imperfectly record the story of the Foal of Troy.</i></p>
+    <p><i>The installation of the pipes on the inside of the insulation can be challenging, especially when the neighbor could come home at any minute.</i></p>
 </div>
