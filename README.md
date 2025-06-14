@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Good Science</strong></h3>
-    <p>#3101</p>
-    <p>June 11, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/good_science.png">
+    <h3><strong>Reading a Big Number</strong></h3>
+    <p>#3102</p>
+    <p>June 13, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/reading_a_big_number.png">
     <br></br>
-    <p><i>If you think curiosity without rigor is bad, you should see rigor without curiosity.</i></p>
+    <p><i>[desperately] Maybe this is from some country where they use commas as decimal points, and also as digit separators after the decimal, and also use random other characters for decoration???</i></p>
 </div>
