@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Reading a Big Number</strong></h3>
-    <p>#3102</p>
-    <p>June 13, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/reading_a_big_number.png">
+    <h3><strong>Exoplanet System</strong></h3>
+    <p>#3103</p>
+    <p>June 16, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/exoplanet_system.png">
     <br></br>
-    <p><i>[desperately] Maybe this is from some country where they use commas as decimal points, and also as digit separators after the decimal, and also use random other characters for decoration???</i></p>
+    <p><i>Sure, this exoplanet we discovered may seem hostile to life, but our calculations suggest it's actually in the accretion disc's habitable zone.</i></p>
 </div>
