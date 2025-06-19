@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Exoplanet System</strong></h3>
-    <p>#3103</p>
-    <p>June 16, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/exoplanet_system.png">
+    <h3><strong>Tukey</strong></h3>
+    <p>#3104</p>
+    <p>June 18, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/tukey.png">
     <br></br>
-    <p><i>Sure, this exoplanet we discovered may seem hostile to life, but our calculations suggest it's actually in the accretion disc's habitable zone.</i></p>
+    <p><i>Numbers can be tricky. On the day of my 110th birthday, I'll be one day younger than John Tukey was on his.</i></p>
 </div>
