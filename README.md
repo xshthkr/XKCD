@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Dehumidifier</strong></h3>
-    <p>#3109</p>
-    <p>June 30, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/dehumidifier.png">
+    <h3><strong>Global Ranking</strong></h3>
+    <p>#3110</p>
+    <p>July 2, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/global_ranking.png">
     <br></br>
-    <p><i>It's important for devices to have internet connectivity so the manufacturer can patch remote exploits.</i></p>
+    <p><i>Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard.</i></p>
 </div>
