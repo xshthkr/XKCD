@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Global Ranking</strong></h3>
-    <p>#3110</p>
-    <p>July 2, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/global_ranking.png">
+    <h3><strong>Artificial Gravity</strong></h3>
+    <p>#3111</p>
+    <p>July 4, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/artificial_gravity.png">
     <br></br>
-    <p><i>Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard.</i></p>
+    <p><i>Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.</i></p>
 </div>
