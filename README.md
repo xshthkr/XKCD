@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Artificial Gravity</strong></h3>
-    <p>#3111</p>
-    <p>July 4, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/artificial_gravity.png">
+    <h3><strong>Geology Murder</strong></h3>
+    <p>#3112</p>
+    <p>July 7, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/geology_murder.png">
     <br></br>
-    <p><i>Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.</i></p>
+    <p><i>After determining that his body was full of pipes carrying iron-rich fluid, our current theory is that the dagger-shaped object precipitated within the wound.</i></p>
 </div>
