@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Unsolved Physics Problems</strong></h3>
-    <p>#3115</p>
-    <p>July 14, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/unsolved_physics_problems.png">
+    <h3><strong>Echo Chamber</strong></h3>
+    <p>#3116</p>
+    <p>July 16, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/echo_chamber.png">
     <br></br>
-    <p><i>'Tin pest' makes more sense to me. Tin just doesn't want to be locked down in a shape like that. I get it. But why would any metal want to grow hair??</i></p>
+    <p><i>This is almost as bad as the time I signed up for a purely partisan fishing expedition.</i></p>
 </div>
