@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Replication Crisis</strong></h3>
-    <p>#3117</p>
-    <p>July 18, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/replication_crisis.png">
+    <h3><strong>iNaturalist Animals and Plants</strong></h3>
+    <p>#3118</p>
+    <p>July 21, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/inaturalist_animals_and_plants.png">
     <br></br>
-    <p><i>Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying.</i></p>
+    <p><i>Washington, DC: Eastern gray squirrel, Amur honeysuckle. Puerto Rico: Crested anole, sea grape. US as a whole: Mallard, eastern poison ivy.</i></p>
 </div>
