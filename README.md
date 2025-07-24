@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>iNaturalist Animals and Plants</strong></h3>
-    <p>#3118</p>
-    <p>July 21, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/inaturalist_animals_and_plants.png">
+    <h3><strong>Flettner Rotor</strong></h3>
+    <p>#3119</p>
+    <p>July 23, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/flettner_rotor.png">
     <br></br>
-    <p><i>Washington, DC: Eastern gray squirrel, Amur honeysuckle. Puerto Rico: Crested anole, sea grape. US as a whole: Mallard, eastern poison ivy.</i></p>
+    <p><i>"And in maritime news, the Coast Guard is on the scene today after an apparent collision between two lighthouses."</i></p>
 </div>
