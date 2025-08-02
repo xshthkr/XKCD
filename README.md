@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Bad Map Projection: Interrupted Spheres</strong></h3>
-    <p>#3122</p>
-    <p>July 30, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png">
+    <h3><strong>Canon</strong></h3>
+    <p>#3123</p>
+    <p>August 1, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/canon.png">
     <br></br>
-    <p><i>During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together.</i></p>
+    <p><i>Achilles was a mighty warrior, but his Achilles' heel was his heel.</i></p>
 </div>
