@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Canon</strong></h3>
-    <p>#3123</p>
-    <p>August 1, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/canon.png">
+    <h3><strong>Grounded</strong></h3>
+    <p>#3124</p>
+    <p>August 4, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/grounded.png">
     <br></br>
-    <p><i>Achilles was a mighty warrior, but his Achilles' heel was his heel.</i></p>
+    <p><i>We should have you at the gate in just under two hours--two and a half if we get pulled over.</i></p>
 </div>
