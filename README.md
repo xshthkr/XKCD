@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Grounded</strong></h3>
-    <p>#3124</p>
-    <p>August 4, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/grounded.png">
+    <h3><strong>Snake-in-the-Box Problem</strong></h3>
+    <p>#3125</p>
+    <p>August 6, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/snake_in_the_box_problem.png">
     <br></br>
-    <p><i>We should have you at the gate in just under two hours--two and a half if we get pulled over.</i></p>
+    <p><i>Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.</i></p>
 </div>
