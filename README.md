@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Disclaimer</strong></h3>
-    <p>#3126</p>
-    <p>August 8, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/disclaimer.png">
+    <h3><strong>Where Babies Come From</strong></h3>
+    <p>#3127</p>
+    <p>August 11, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/where_babies_come_from.png">
     <br></br>
-    <p><i>You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.</i></p>
+    <p><i>Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.</i></p>
 </div>
