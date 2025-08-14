@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Where Babies Come From</strong></h3>
-    <p>#3127</p>
-    <p>August 11, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/where_babies_come_from.png">
+    <h3><strong>Thread Meeting</strong></h3>
+    <p>#3128</p>
+    <p>August 13, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/thread_meeting.png">
     <br></br>
-    <p><i>Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.</i></p>
+    <p><i>Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.</i></p>
 </div>
