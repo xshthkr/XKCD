@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Thread Meeting</strong></h3>
-    <p>#3128</p>
-    <p>August 13, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/thread_meeting.png">
+    <h3><strong>Archaeology Research</strong></h3>
+    <p>#3129</p>
+    <p>August 15, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/archaeology_research.png">
     <br></br>
-    <p><i>Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.</i></p>
+    <p><i>The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.</i></p>
 </div>
