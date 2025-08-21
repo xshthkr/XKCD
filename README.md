@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Predicament</strong></h3>
-    <p>#3130</p>
-    <p>August 18, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/predicament.png">
+    <h3><strong>Cesium</strong></h3>
+    <p>#3131</p>
+    <p>August 20, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/cesium.png">
     <br></br>
-    <p><i>I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?</i></p>
+    <p><i>Someday I hope to find a way to mess up a recipe so badly that it draws the attention of the International Air Transport Association, the International Mathematical Olympiad, or the NSA.</i></p>
 </div>
