@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Coastline Similarity</strong></h3>
-    <p>#3132</p>
-    <p>August 22, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/coastline_similarity.png">
+    <h3><strong>Dual Roomba</strong></h3>
+    <p>#3133</p>
+    <p>August 25, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/dual_roomba.png">
     <br></br>
-    <p><i>Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!</i></p>
+    <p><i>I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans.</i></p>
 </div>
