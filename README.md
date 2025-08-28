@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Dual Roomba</strong></h3>
-    <p>#3133</p>
-    <p>August 25, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/dual_roomba.png">
+    <h3><strong>Wavefunction Collapse</strong></h3>
+    <p>#3134</p>
+    <p>August 27, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/wavefunction_collapse.png">
     <br></br>
-    <p><i>I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans.</i></p>
+    <p><i>Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.</i></p>
 </div>
