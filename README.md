@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Wavefunction Collapse</strong></h3>
-    <p>#3134</p>
-    <p>August 27, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/wavefunction_collapse.png">
+    <h3><strong>Sea Level</strong></h3>
+    <p>#3135</p>
+    <p>August 29, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/sea_level.png">
     <br></br>
-    <p><i>Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.</i></p>
+    <p><i>They're up there with coral islands, lightning, and caterpillars turning into butterflies.</i></p>
 </div>
