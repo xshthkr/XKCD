@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Pull</strong></h3>
-    <p>#3136</p>
-    <p>September 1, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/pull.png">
+    <h3><strong>Cursed Number</strong></h3>
+    <p>#3137</p>
+    <p>September 3, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/cursed_number.png">
     <br></br>
-    <p><i>Be careful fighting gravity. If you win, it's a long way down.</i></p>
+    <p><i>Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.</i></p>
 </div>
