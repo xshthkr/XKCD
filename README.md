@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Dimensional Lumber Tape Measure</strong></h3>
-    <p>#3138</p>
-    <p>September 5, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png">
+    <h3><strong>Chess Variant</strong></h3>
+    <p>#3139</p>
+    <p>September 8, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/chess_variant.png">
     <br></br>
-    <p><i>A person with two watches is never sure what time it is, especially if I got them one of the watches.</i></p>
+    <p><i>The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.</i></p>
 </div>
