@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Biology Department</strong></h3>
-    <p>#3140</p>
-    <p>September 10, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/biology_department.png">
+    <h3><strong>Mantle Model</strong></h3>
+    <p>#3141</p>
+    <p>September 12, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/mantle_model.png">
     <br></br>
-    <p><i>Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets.</i></p>
+    <p><i>Mantle plumes explain Hawaii, Yellowstone, Iceland, the East African Rift, the Adirondack uplift, the Permian extinction, the decline of Rome, the DB Cooper hijacking, and the balrog in Moria. Those little hills of sand in your yard are caused by antle plumes.</i></p>
 </div>
