@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Mantle Model</strong></h3>
-    <p>#3141</p>
-    <p>September 12, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/mantle_model.png">
+    <h3><strong><City>-Style Pizza</strong></h3>
+    <p>#3142</p>
+    <p>September 15, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/city_style_pizza.png">
     <br></br>
-    <p><i>Mantle plumes explain Hawaii, Yellowstone, Iceland, the East African Rift, the Adirondack uplift, the Permian extinction, the decline of Rome, the DB Cooper hijacking, and the balrog in Moria. Those little hills of sand in your yard are caused by antle plumes.</i></p>
+    <p><i>If you want to see true audacity, do an image search for 'Altoona-style pizza.'</i></p>
 </div>
