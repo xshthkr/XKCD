@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong><City>-Style Pizza</strong></h3>
-    <p>#3142</p>
-    <p>September 15, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/city_style_pizza.png">
+    <h3><strong>Question Mark</strong></h3>
+    <p>#3143</p>
+    <p>September 17, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/question_mark.png">
     <br></br>
-    <p><i>If you want to see true audacity, do an image search for 'Altoona-style pizza.'</i></p>
+    <p><i>Although now people will realize three-per-em space that all this time I've been using weird medium mathematical space whitespace characters in my hair space hair space hair space speech dot dot dot...</i></p>
 </div>
