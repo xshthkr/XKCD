@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Phase Changes</strong></h3>
-    <p>#3144</p>
-    <p>September 19, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/phase_changes.png">
+    <h3><strong>Piercing</strong></h3>
+    <p>#3145</p>
+    <p>September 22, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/piercing.png">
     <br></br>
-    <p><i>People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don't have breathtakingly complex emergent phenomena right there in our freezers.</i></p>
+    <p><i>Some lava around the piercing site is normal, but keep an eye out for spreading earthquakes and eruptive activity that might indicate rifting.</i></p>
 </div>
