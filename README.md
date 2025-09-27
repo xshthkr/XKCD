@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Fantastic Four</strong></h3>
-    <p>#3146</p>
-    <p>September 24, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/fantastic_four.png">
+    <h3><strong>Hiking</strong></h3>
+    <p>#3147</p>
+    <p>September 26, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/hiking.png">
     <br></br>
-    <p><i>One perk of being born at 0.88c is that your birthday is over two days long.</i></p>
+    <p><i>Every downhill walk is a waterslide that might have been.</i></p>
 </div>
