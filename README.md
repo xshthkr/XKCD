@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Measure Twice, Cut Once</strong></h3>
-    <p>#3149</p>
-    <p>October 1, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/measure_twice_cut_once.png">
+    <h3><strong>Ping</strong></h3>
+    <p>#3150</p>
+    <p>October 3, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/ping.png">
     <br></br>
-    <p><i>"Measure zero times, cut zero times." --carpenter who has achieved enlightenment and realized the wood is fine where it is</i></p>
+    <p><i>Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow.</i></p>
 </div>
