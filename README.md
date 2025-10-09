@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Window Screen</strong></h3>
-    <p>#3151</p>
-    <p>October 6, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/window_screen.png">
+    <h3><strong>Skateboard</strong></h3>
+    <p>#3152</p>
+    <p>October 8, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/skateboard.png">
     <br></br>
-    <p><i>The Nobel Prize in Physiology or Medicine or Home Improvement or DIY</i></p>
+    <p><i>I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks.</i></p>
 </div>
