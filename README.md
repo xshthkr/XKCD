@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Skateboard</strong></h3>
-    <p>#3152</p>
-    <p>October 8, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/skateboard.png">
+    <h3><strong>Hot Water Balloon</strong></h3>
+    <p>#3153</p>
+    <p>October 10, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/hot_water_balloon.png">
     <br></br>
-    <p><i>I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks.</i></p>
+    <p><i>Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved.</i></p>
 </div>
