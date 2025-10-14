@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Hot Water Balloon</strong></h3>
-    <p>#3153</p>
-    <p>October 10, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/hot_water_balloon.png">
+    <h3><strong>Physics Insight</strong></h3>
+    <p>#3154</p>
+    <p>October 13, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/physics_insight.png">
     <br></br>
-    <p><i>Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved.</i></p>
+    <p><i>When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get 'detained by security' for 'injuring several tourists.'</i></p>
 </div>
