@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Physics Insight</strong></h3>
-    <p>#3154</p>
-    <p>October 13, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/physics_insight.png">
+    <h3><strong>Physics Paths</strong></h3>
+    <p>#3155</p>
+    <p>October 15, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/physics_paths.png">
     <br></br>
-    <p><i>When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get 'detained by security' for 'injuring several tourists.'</i></p>
+    <p><i>If nothing else, that reasoning definitely overturns syllogisms.</i></p>
 </div>
