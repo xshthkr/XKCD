@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Physics Paths</strong></h3>
-    <p>#3155</p>
-    <p>October 15, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/physics_paths.png">
+    <h3><strong>Planetary Rings</strong></h3>
+    <p>#3156</p>
+    <p>October 17, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/planetary_rings.png">
     <br></br>
-    <p><i>If nothing else, that reasoning definitely overturns syllogisms.</i></p>
+    <p><i>If you don't know where you are on Earth, the angle of satellite dishes can help constrain your latitude. If some of them are pointing straight up, you're probably near the Equator, right under the ring.</i></p>
 </div>
