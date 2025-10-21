@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Planetary Rings</strong></h3>
-    <p>#3156</p>
-    <p>October 17, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/planetary_rings.png">
+    <h3><strong>Emperor Palpatine</strong></h3>
+    <p>#3157</p>
+    <p>October 20, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/emperor_palpatine.png">
     <br></br>
-    <p><i>If you don't know where you are on Earth, the angle of satellite dishes can help constrain your latitude. If some of them are pointing straight up, you're probably near the Equator, right under the ring.</i></p>
+    <p><i>Many things about Star Wars were not well planned out, but having a 37-year-old in old-age makeup play the Emperor in Return of the Jedi was such an incredible call.</i></p>
 </div>
