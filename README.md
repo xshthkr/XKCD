@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Continents</strong></h3>
-    <p>#3159</p>
-    <p>October 24, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/continents.png">
+    <h3><strong>Document Forgery</strong></h3>
+    <p>#3160</p>
+    <p>October 27, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/document_forgery.png">
     <br></br>
-    <p><i>The inflection point was probably in late 1966 or 1967, so when Neil Armstrong flew to space on Gemini 8, plate tectonics was not widely accepted, but when he landed on the Moon three years later it was the mainstream consensus.</i></p>
+    <p><i>It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...</i></p>
 </div>
