@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Document Forgery</strong></h3>
-    <p>#3160</p>
-    <p>October 27, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/document_forgery.png">
+    <h3><strong>Airspeed</strong></h3>
+    <p>#3161</p>
+    <p>October 29, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/airspeed.png">
     <br></br>
-    <p><i>It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...</i></p>
+    <p><i>Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record</i></p>
 </div>
