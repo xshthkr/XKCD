@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Airspeed</strong></h3>
-    <p>#3161</p>
-    <p>October 29, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/airspeed.png">
+    <h3><strong>Heart Mountain</strong></h3>
+    <p>#3162</p>
+    <p>October 31, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/heart_mountain.png">
     <br></br>
-    <p><i>Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record</i></p>
+    <p><i>Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."</i></p>
 </div>
