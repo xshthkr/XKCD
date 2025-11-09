@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Metric Tip</strong></h3>
-    <p>#3164</p>
-    <p>November 5, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/metric_tip.png">
+    <h3><strong>Earthquake Prediction Flowchart</strong></h3>
+    <p>#3165</p>
+    <p>November 7, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png">
     <br></br>
-    <p><i>The package weighs 7 kg 9 oz.</i></p>
+    <p><i>At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'</i></p>
 </div>
