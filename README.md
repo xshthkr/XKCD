@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Earthquake Prediction Flowchart</strong></h3>
-    <p>#3165</p>
-    <p>November 7, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png">
+    <h3><strong>Big and Little Spoons</strong></h3>
+    <p>#3166</p>
+    <p>November 10, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/big_and_little_spoons.png">
     <br></br>
-    <p><i>At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'</i></p>
+    <p><i>Are you the annoying spoon or the sleepy spoon?</i></p>
 </div>
