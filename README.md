@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Beam Dump</strong></h3>
-    <p>#3168</p>
-    <p>November 14, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/beam_dump.png">
+    <h3><strong>EPIRBs</strong></h3>
+    <p>#3169</p>
+    <p>November 17, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/epirbs.png">
     <br></br>
-    <p><i>We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.</i></p>
+    <p><i>'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'</i></p>
 </div>
