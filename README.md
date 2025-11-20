@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>EPIRBs</strong></h3>
-    <p>#3169</p>
-    <p>November 17, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/epirbs.png">
+    <h3><strong>Service Outage</strong></h3>
+    <p>#3170</p>
+    <p>November 19, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/service_outage.png">
     <br></br>
-    <p><i>'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'</i></p>
+    <p><i>Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala.</i></p>
 </div>
