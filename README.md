@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Service Outage</strong></h3>
-    <p>#3170</p>
-    <p>November 19, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/service_outage.png">
+    <h3><strong>Geologic Core Sample</strong></h3>
+    <p>#3171</p>
+    <p>November 21, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/geologic_core_sample.png">
     <br></br>
-    <p><i>Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala.</i></p>
+    <p><i>If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team's coring equipment.</i></p>
 </div>
