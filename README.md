@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Geologic Core Sample</strong></h3>
-    <p>#3171</p>
-    <p>November 21, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/geologic_core_sample.png">
+    <h3><strong>Fifteen Years</strong></h3>
+    <p>#3172</p>
+    <p>November 24, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/fifteen_years.png">
     <br></br>
-    <p><i>If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team's coring equipment.</i></p>
+    <p><i>"Want to feel old?" "Yes."</i></p>
 </div>
