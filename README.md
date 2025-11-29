@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Satellite Imagery</strong></h3>
-    <p>#3173</p>
-    <p>November 26, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/satellite_imagery.png">
+    <h3><strong>Bridge Clearance</strong></h3>
+    <p>#3174</p>
+    <p>November 28, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/bridge_clearance.png">
     <br></br>
-    <p><i>Every weekend I take an ATV out into the desert and spend a day tracing a faint "(C) GOOGLE 2009" watermark across the landscape.</i></p>
+    <p><i>A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.</i></p>
 </div>
