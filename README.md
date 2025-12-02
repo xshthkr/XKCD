@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Bridge Clearance</strong></h3>
-    <p>#3174</p>
-    <p>November 28, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/bridge_clearance.png">
+    <h3><strong>Website Task Flowchart</strong></h3>
+    <p>#3175</p>
+    <p>December 1, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/website_task_flowchart.png">
     <br></br>
-    <p><i>A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.</i></p>
+    <p><i>Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!</i></p>
 </div>
