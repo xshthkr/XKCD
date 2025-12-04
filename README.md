@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Website Task Flowchart</strong></h3>
-    <p>#3175</p>
-    <p>December 1, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/website_task_flowchart.png">
+    <h3><strong>Inverted Catenaries</strong></h3>
+    <p>#3176</p>
+    <p>December 3, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/inverted_catenaries.png">
     <br></br>
-    <p><i>Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!</i></p>
+    <p><i>Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.</i></p>
 </div>
