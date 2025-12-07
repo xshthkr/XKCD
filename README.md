@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Inverted Catenaries</strong></h3>
-    <p>#3176</p>
-    <p>December 3, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/inverted_catenaries.png">
+    <h3><strong>Chessboard Alignment</strong></h3>
+    <p>#3177</p>
+    <p>December 5, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/chessboard_alignment.png">
     <br></br>
-    <p><i>Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.</i></p>
+    <p><i>Luckily, the range is limited by the fact that the square boundary lines follow great circles.</i></p>
 </div>
