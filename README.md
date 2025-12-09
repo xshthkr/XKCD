@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Chessboard Alignment</strong></h3>
-    <p>#3177</p>
-    <p>December 5, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/chessboard_alignment.png">
+    <h3><strong>Hyperacute Interdynamics</strong></h3>
+    <p>#3178</p>
+    <p>December 8, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/hyperacute_interdynamics.png">
     <br></br>
-    <p><i>Luckily, the range is limited by the fact that the square boundary lines follow great circles.</i></p>
+    <p><i>Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun.</i></p>
 </div>
