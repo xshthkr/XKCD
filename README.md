@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Apples</strong></h3>
-    <p>#3180</p>
-    <p>December 12, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/apples.png">
+    <h3><strong>Jumping Frog Radius</strong></h3>
+    <p>#3181</p>
+    <p>December 15, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/jumping_frog_radius.png">
     <br></br>
-    <p><i>The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph.</i></p>
+    <p><i>Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.</i></p>
 </div>
