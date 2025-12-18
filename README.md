@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Jumping Frog Radius</strong></h3>
-    <p>#3181</p>
-    <p>December 15, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/jumping_frog_radius.png">
+    <h3><strong>Telescope Types</strong></h3>
+    <p>#3182</p>
+    <p>December 17, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/telescope_types.png">
     <br></br>
-    <p><i>Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.</i></p>
+    <p><i>I'm trying to buy a gravitational lens for my camera, but I can't tell if the manufacturers are listing comoving focal length or proper focal length.</i></p>
 </div>
