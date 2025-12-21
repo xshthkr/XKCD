@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Telescope Types</strong></h3>
-    <p>#3182</p>
-    <p>December 17, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/telescope_types.png">
+    <h3><strong>Pole Vault Pole</strong></h3>
+    <p>#3183</p>
+    <p>December 19, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/pole_vault_pole.png">
     <br></br>
-    <p><i>I'm trying to buy a gravitational lens for my camera, but I can't tell if the manufacturers are listing comoving focal length or proper focal length.</i></p>
+    <p><i>My goal in life is to be personally responsible for at least one sports rule change.</i></p>
 </div>
