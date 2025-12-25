@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Funny Numbers</strong></h3>
-    <p>#3184</p>
-    <p>December 22, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/funny_numbers.png">
+    <h3><strong>Sauropods</strong></h3>
+    <p>#3185</p>
+    <p>December 24, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/sauropods.png">
     <br></br>
-    <p><i>In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.</i></p>
+    <p><i>Vertebrae Georg</i></p>
 </div>
