@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Sauropods</strong></h3>
-    <p>#3185</p>
-    <p>December 24, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/sauropods.png">
+    <h3><strong>Truly Universal Outlet</strong></h3>
+    <p>#3186</p>
+    <p>December 26, 2025</p>
+    <img src="https://imgs.xkcd.com/comics/truly_universal_outlet.png">
     <br></br>
-    <p><i>Vertebrae Georg</i></p>
+    <p><i>Building Inspectors HATE This One Weird Trick</i></p>
 </div>
