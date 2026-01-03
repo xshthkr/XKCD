@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Anyone Else Here</strong></h3>
-    <p>#3188</p>
-    <p>December 31, 2025</p>
-    <img src="https://imgs.xkcd.com/comics/anyone_else_here.png">
+    <h3><strong>Conic Sections</strong></h3>
+    <p>#3189</p>
+    <p>January 2, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/conic_sections.png">
     <br></br>
-    <p><i>Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.</i></p>
+    <p><i>They're not generally used for crewed spacecraft because astronauts HATE going around the corners.</i></p>
 </div>
