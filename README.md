@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Conic Sections</strong></h3>
-    <p>#3189</p>
-    <p>January 2, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/conic_sections.png">
+    <h3><strong>Tensegrity</strong></h3>
+    <p>#3190</p>
+    <p>January 5, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/tensegrity.png">
     <br></br>
-    <p><i>They're not generally used for crewed spacecraft because astronauts HATE going around the corners.</i></p>
+    <p><i>Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it.</i></p>
 </div>
