@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Tensegrity</strong></h3>
-    <p>#3190</p>
-    <p>January 5, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/tensegrity.png">
+    <h3><strong>Superstition</strong></h3>
+    <p>#3191</p>
+    <p>January 7, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/superstition.png">
     <br></br>
-    <p><i>Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it.</i></p>
+    <p><i>It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!</i></p>
 </div>
