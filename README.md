@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Superstition</strong></h3>
-    <p>#3191</p>
-    <p>January 7, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/superstition.png">
+    <h3><strong>Planetary Alignment</strong></h3>
+    <p>#3192</p>
+    <p>January 9, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/planetary_alignment.png">
     <br></br>
-    <p><i>It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!</i></p>
+    <p><i>We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?</i></p>
 </div>
