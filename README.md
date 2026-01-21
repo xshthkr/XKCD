@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>International Station</strong></h3>
-    <p>#3195</p>
-    <p>January 16, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/international_station.png">
+    <h3><strong>Aurora Coolness</strong></h3>
+    <p>#3196</p>
+    <p>January 19, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/aurora_coolness.png">
     <br></br>
-    <p><i>Welcome to the International Space Station Exclamation Point!</i></p>
+    <p><i>I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all.</i></p>
 </div>
