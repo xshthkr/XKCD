@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Cost Savings</strong></h3>
-    <p>#3197</p>
-    <p>January 21, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/cost_savings.png">
+    <h3><strong>Double-Pronged Extension Cord</strong></h3>
+    <p>#3198</p>
+    <p>January 23, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/double_pronged_extension_cord.png">
     <br></br>
-    <p><i>Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.</i></p>
+    <p><i>'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'</i></p>
 </div>
