@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Double-Pronged Extension Cord</strong></h3>
-    <p>#3198</p>
-    <p>January 23, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/double_pronged_extension_cord.png">
+    <h3><strong>Early Arthropods</strong></h3>
+    <p>#3199</p>
+    <p>January 26, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/early_arthropods.png">
     <br></br>
-    <p><i>'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'</i></p>
+    <p><i>'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects</i></p>
 </div>
