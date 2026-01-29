@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Early Arthropods</strong></h3>
-    <p>#3199</p>
-    <p>January 26, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/early_arthropods.png">
+    <h3><strong>Chemical Formula</strong></h3>
+    <p>#3200</p>
+    <p>January 28, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/chemical_formula.png">
     <br></br>
-    <p><i>'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects</i></p>
+    <p><i>Some of the atoms in the molecule are very weakly bound.</i></p>
 </div>
