@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Binary Star</strong></h3>
-    <p>#3203</p>
-    <p>February 4, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/binary_star.png">
+    <h3><strong>Dinosaurs And Non-Dinosaurs</strong></h3>
+    <p>#3204</p>
+    <p>February 6, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png">
     <br></br>
-    <p><i>The discovery of a fully typographical star system comes with a big asterisk.</i></p>
+    <p><i>Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.</i></p>
 </div>
