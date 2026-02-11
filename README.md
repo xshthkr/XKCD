@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Dinosaurs And Non-Dinosaurs</strong></h3>
-    <p>#3204</p>
-    <p>February 6, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png">
+    <h3><strong>Carbon Dating</strong></h3>
+    <p>#3205</p>
+    <p>February 9, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/carbon_dating.png">
     <br></br>
-    <p><i>Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.</i></p>
+    <p><i>This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.</i></p>
 </div>
