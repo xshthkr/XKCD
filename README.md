@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Carbon Dating</strong></h3>
-    <p>#3205</p>
-    <p>February 9, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/carbon_dating.png">
+    <h3><strong>Installation</strong></h3>
+    <p>#3206</p>
+    <p>February 11, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/installation.png">
     <br></br>
-    <p><i>This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.</i></p>
+    <p><i>Do YOU remember the skylight being this big?</i></p>
 </div>
