@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Eliminating the Impossible</strong></h3>
-    <p>#3210</p>
-    <p>February 20, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/eliminating_the_impossible.png">
+    <h3><strong>Amperage</strong></h3>
+    <p>#3211</p>
+    <p>February 23, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/amperage.png">
     <br></br>
-    <p><i>'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.</i></p>
+    <p><i>Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?</i></p>
 </div>
