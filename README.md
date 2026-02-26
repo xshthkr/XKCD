@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Amperage</strong></h3>
-    <p>#3211</p>
-    <p>February 23, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/amperage.png">
+    <h3><strong>Little Red Dots</strong></h3>
+    <p>#3212</p>
+    <p>February 25, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/little_red_dots.png">
     <br></br>
-    <p><i>Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?</i></p>
+    <p><i>After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.</i></p>
 </div>
