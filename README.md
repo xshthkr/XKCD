@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Little Red Dots</strong></h3>
-    <p>#3212</p>
-    <p>February 25, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/little_red_dots.png">
+    <h3><strong>Dental Formulas</strong></h3>
+    <p>#3213</p>
+    <p>February 27, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/dental_formulas.png">
     <br></br>
-    <p><i>After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.</i></p>
+    <p><i>I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.</i></p>
 </div>
