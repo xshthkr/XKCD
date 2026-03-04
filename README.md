@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Dental Formulas</strong></h3>
-    <p>#3213</p>
-    <p>February 27, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/dental_formulas.png">
+    <h3><strong>Electric Vehicles</strong></h3>
+    <p>#3214</p>
+    <p>March 2, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/electric_vehicles.png">
     <br></br>
-    <p><i>I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.</i></p>
+    <p><i>Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.</i></p>
 </div>
