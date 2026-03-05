@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Electric Vehicles</strong></h3>
-    <p>#3214</p>
-    <p>March 2, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/electric_vehicles.png">
+    <h3><strong>Solar Warning</strong></h3>
+    <p>#3215</p>
+    <p>March 4, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/solar_warning.png">
     <br></br>
-    <p><i>Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.</i></p>
+    <p><i>This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.</i></p>
 </div>
