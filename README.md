@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Solar Warning</strong></h3>
-    <p>#3215</p>
-    <p>March 4, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/solar_warning.png">
+    <h3><strong>Bazookasaurus</strong></h3>
+    <p>#3216</p>
+    <p>March 6, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/bazookasaurus.png">
     <br></br>
-    <p><i>This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.</i></p>
+    <p><i>In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.</i></p>
 </div>
