@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Bazookasaurus</strong></h3>
-    <p>#3216</p>
-    <p>March 6, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/bazookasaurus.png">
+    <h3><strong>Home Remedies</strong></h3>
+    <p>#3217</p>
+    <p>March 9, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/home_remedies.png">
     <br></br>
-    <p><i>In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.</i></p>
+    <p><i>As always, you are permitted to call one person for guidance, but that person must be a grandparent.</i></p>
 </div>
