@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Home Remedies</strong></h3>
-    <p>#3217</p>
-    <p>March 9, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/home_remedies.png">
+    <h3><strong>Subduction Retrieval</strong></h3>
+    <p>#3218</p>
+    <p>March 11, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/subduction_retrieval.png">
     <br></br>
-    <p><i>As always, you are permitted to call one person for guidance, but that person must be a grandparent.</i></p>
+    <p><i>Aww, the oceanic crust and the continental crust are getting married!</i></p>
 </div>
