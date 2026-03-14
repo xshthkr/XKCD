@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Subduction Retrieval</strong></h3>
-    <p>#3218</p>
-    <p>March 11, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/subduction_retrieval.png">
+    <h3><strong>Planets and Bright Stars</strong></h3>
+    <p>#3219</p>
+    <p>March 13, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/planets_and_bright_stars.png">
     <br></br>
-    <p><i>Aww, the oceanic crust and the continental crust are getting married!</i></p>
+    <p><i>An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.</i></p>
 </div>
