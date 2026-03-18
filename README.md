@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Planets and Bright Stars</strong></h3>
-    <p>#3219</p>
-    <p>March 13, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/planets_and_bright_stars.png">
+    <h3><strong>Rotational Gravity</strong></h3>
+    <p>#3220</p>
+    <p>March 16, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/rotational_gravity.png">
     <br></br>
-    <p><i>An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.</i></p>
+    <p><i>I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.</i></p>
 </div>
