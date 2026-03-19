@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Rotational Gravity</strong></h3>
-    <p>#3220</p>
-    <p>March 16, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/rotational_gravity.png">
+    <h3><strong>Landscape Features</strong></h3>
+    <p>#3221</p>
+    <p>March 18, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/landscape_features.png">
     <br></br>
-    <p><i>I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.</i></p>
+    <p><i>'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question</i></p>
 </div>
