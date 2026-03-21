@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Landscape Features</strong></h3>
-    <p>#3221</p>
-    <p>March 18, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/landscape_features.png">
+    <h3><strong>Star Formation</strong></h3>
+    <p>#3222</p>
+    <p>March 20, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/star_formation.png">
     <br></br>
-    <p><i>'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question</i></p>
+    <p><i>It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!</i></p>
 </div>
