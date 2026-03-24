@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Star Formation</strong></h3>
-    <p>#3222</p>
-    <p>March 20, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/star_formation.png">
+    <h3><strong>Inflation Timeline</strong></h3>
+    <p>#3223</p>
+    <p>March 23, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/inflation_timeline.png">
     <br></br>
-    <p><i>It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!</i></p>
+    <p><i>Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'</i></p>
 </div>
