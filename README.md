@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Centimeter Wavelengths</strong></h3>
-    <p>#3224</p>
-    <p>March 25, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/centimeter_wavelengths.png">
+    <h3><strong>Satellite Pollution</strong></h3>
+    <p>#3225</p>
+    <p>March 27, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/satellite_pollution.png">
     <br></br>
-    <p><i>Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?</i></p>
+    <p><i>We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.</i></p>
 </div>
