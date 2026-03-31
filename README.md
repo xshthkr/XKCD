@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Satellite Pollution</strong></h3>
-    <p>#3225</p>
-    <p>March 27, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/satellite_pollution.png">
+    <h3><strong>Home Solar</strong></h3>
+    <p>#3226</p>
+    <p>March 30, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/home_solar.png">
     <br></br>
-    <p><i>We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.</i></p>
+    <p><i>"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."</i></p>
 </div>
