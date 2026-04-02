@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Home Solar</strong></h3>
-    <p>#3226</p>
-    <p>March 30, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/home_solar.png">
+    <h3><strong>Creation</strong></h3>
+    <p>#3227</p>
+    <p>April 1, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/creation.png">
     <br></br>
-    <p><i>"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."</i></p>
+    <p><i>This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.</i></p>
 </div>
