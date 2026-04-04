@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Creation</strong></h3>
-    <p>#3227</p>
-    <p>April 1, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/creation.png">
+    <h3><strong>Day Counter</strong></h3>
+    <p>#3228</p>
+    <p>April 3, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/day_counter.png">
     <br></br>
-    <p><i>This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.</i></p>
+    <p><i>It has been −2,147,483,648 days since our last integer overflow.</i></p>
 </div>
