@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Day Counter</strong></h3>
-    <p>#3228</p>
-    <p>April 3, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/day_counter.png">
+    <h3><strong>Grammar</strong></h3>
+    <p>#3229</p>
+    <p>April 6, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/grammar.png">
     <br></br>
-    <p><i>It has been −2,147,483,648 days since our last integer overflow.</i></p>
+    <p><i>Communication is one of the most popular ways to transmit information, ahead of rivals such as</i></p>
 </div>
