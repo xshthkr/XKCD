@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Overton</strong></h3>
-    <p>#3230</p>
-    <p>April 8, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/overton.png">
+    <h3><strong>Lightning</strong></h3>
+    <p>#3231</p>
+    <p>April 10, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/lightning.png">
     <br></br>
-    <p><i>I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.</i></p>
+    <p><i>Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.</i></p>
 </div>
