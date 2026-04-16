@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Countdown Standard</strong></h3>
-    <p>#3232</p>
-    <p>April 13, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/countdown_standard.png">
+    <h3><strong>Make It Myself</strong></h3>
+    <p>#3233</p>
+    <p>April 15, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/make_it_myself.png">
     <br></br>
-    <p><i>Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.</i></p>
+    <p><i>It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!</i></p>
 </div>
