@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Make It Myself</strong></h3>
-    <p>#3233</p>
-    <p>April 15, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/make_it_myself.png">
+    <h3><strong>Europa Missions</strong></h3>
+    <p>#3234</p>
+    <p>April 17, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/europa_missions.png">
     <br></br>
-    <p><i>It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!</i></p>
+    <p><i>Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.</i></p>
 </div>
