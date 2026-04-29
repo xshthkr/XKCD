@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Husband and Wife</strong></h3>
-    <p>#3237</p>
-    <p>April 24, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/husband_and_wife.png">
+    <h3><strong>Soniferous Aether</strong></h3>
+    <p>#3238</p>
+    <p>April 27, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/soniferous_aether.png">
     <br></br>
-    <p><i>Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.</i></p>
+    <p><i>Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.</i></p>
 </div>
