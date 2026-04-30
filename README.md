@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Soniferous Aether</strong></h3>
-    <p>#3238</p>
-    <p>April 27, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/soniferous_aether.png">
+    <h3><strong>Simple Machines</strong></h3>
+    <p>#3239</p>
+    <p>April 29, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/simple_machines.png">
     <br></br>
-    <p><i>Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.</i></p>
+    <p><i>It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.</i></p>
 </div>
