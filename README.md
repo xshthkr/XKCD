@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Horizontal Stabilizers</strong></h3>
-    <p>#3241</p>
-    <p>May 4, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/horizontal_stabilizers.png">
+    <h3><strong>Aperiodic Table</strong></h3>
+    <p>#3242</p>
+    <p>May 6, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/aperiodic_table.png">
     <br></br>
-    <p><i>It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.</i></p>
+    <p><i>Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.</i></p>
 </div>
