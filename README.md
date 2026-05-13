@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Crystal Gazing</strong></h3>
-    <p>#3243</p>
-    <p>May 8, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/crystal_gazing.png">
+    <h3><strong>Pullback Drive</strong></h3>
+    <p>#3244</p>
+    <p>May 11, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/pullback_drive.png">
     <br></br>
-    <p><i>'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.</i></p>
+    <p><i>"How does the spring not run out almost immediately?" "We pull it back REALLY far."</i></p>
 </div>
