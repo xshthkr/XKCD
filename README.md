@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Results Age</strong></h3>
-    <p>#3245</p>
-    <p>May 13, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/results_age.png">
+    <h3><strong>Speedrun</strong></h3>
+    <p>#3246</p>
+    <p>May 15, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/speedrun.png">
     <br></br>
-    <p><i>Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.</i></p>
+    <p><i>Usain Bolt holds the world record in the 100 meter speedrun.</i></p>
 </div>
