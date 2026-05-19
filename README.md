@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Speedrun</strong></h3>
-    <p>#3246</p>
-    <p>May 15, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/speedrun.png">
+    <h3><strong>Particle Census</strong></h3>
+    <p>#3247</p>
+    <p>May 18, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/particle_census.png">
     <br></br>
-    <p><i>Usain Bolt holds the world record in the 100 meter speedrun.</i></p>
+    <p><i>Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.</i></p>
 </div>
