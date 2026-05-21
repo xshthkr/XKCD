@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Particle Census</strong></h3>
-    <p>#3247</p>
-    <p>May 18, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/particle_census.png">
+    <h3><strong>182.8 Meters</strong></h3>
+    <p>#3248</p>
+    <p>May 20, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/182_8_meters.png">
     <br></br>
-    <p><i>Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.</i></p>
+    <p><i>They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.</i></p>
 </div>
