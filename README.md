@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>182.8 Meters</strong></h3>
-    <p>#3248</p>
-    <p>May 20, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/182_8_meters.png">
+    <h3><strong>Neutrino Project</strong></h3>
+    <p>#3249</p>
+    <p>May 22, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/neutrino_project.png">
     <br></br>
-    <p><i>They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.</i></p>
+    <p><i>We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.</i></p>
 </div>
