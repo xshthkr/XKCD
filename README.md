@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Neutrino Project</strong></h3>
-    <p>#3249</p>
-    <p>May 22, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/neutrino_project.png">
+    <h3><strong>Flag Design</strong></h3>
+    <p>#3250</p>
+    <p>May 25, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/flag_design.png">
     <br></br>
-    <p><i>We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.</i></p>
+    <p><i>Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.</i></p>
 </div>
