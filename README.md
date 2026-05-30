@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Time Machine Conversation</strong></h3>
-    <p>#3251</p>
-    <p>May 27, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/time_machine_conversation.png">
+    <h3><strong>Ancestral Genomes</strong></h3>
+    <p>#3252</p>
+    <p>May 29, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/ancestral_genomes.png">
     <br></br>
-    <p><i>It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.</i></p>
+    <p><i>SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.</i></p>
 </div>
