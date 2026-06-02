@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Ancestral Genomes</strong></h3>
-    <p>#3252</p>
-    <p>May 29, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/ancestral_genomes.png">
+    <h3><strong>Sunbeam</strong></h3>
+    <p>#3253</p>
+    <p>June 1, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/sunbeam.png">
     <br></br>
-    <p><i>SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.</i></p>
+    <p><i>While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.</i></p>
 </div>
