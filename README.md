@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Sunbeam</strong></h3>
-    <p>#3253</p>
-    <p>June 1, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/sunbeam.png">
+    <h3><strong>Detector</strong></h3>
+    <p>#3254</p>
+    <p>June 3, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/detector.png">
     <br></br>
-    <p><i>While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.</i></p>
+    <p><i>No other experiment has a lower false negative rate.</i></p>
 </div>
