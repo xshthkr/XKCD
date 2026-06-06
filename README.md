@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Detector</strong></h3>
-    <p>#3254</p>
-    <p>June 3, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/detector.png">
+    <h3><strong>Planetary Science</strong></h3>
+    <p>#3255</p>
+    <p>June 5, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/planetary_science.png">
     <br></br>
-    <p><i>No other experiment has a lower false negative rate.</i></p>
+    <p><i>The research was overseen by the Institutional Review Board, which is what I named my surfboard.</i></p>
 </div>
