@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Planetary Science</strong></h3>
-    <p>#3255</p>
-    <p>June 5, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/planetary_science.png">
+    <h3><strong>Nostalgia Content</strong></h3>
+    <p>#3256</p>
+    <p>June 8, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/nostalgia_content.png">
     <br></br>
-    <p><i>The research was overseen by the Institutional Review Board, which is what I named my surfboard.</i></p>
+    <p><i>Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.</i></p>
 </div>
