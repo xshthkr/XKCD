@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Nostalgia Content</strong></h3>
-    <p>#3256</p>
-    <p>June 8, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/nostalgia_content.png">
+    <h3><strong>Beam Pipe</strong></h3>
+    <p>#3257</p>
+    <p>June 10, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/beam_pipe.png">
     <br></br>
-    <p><i>Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.</i></p>
+    <p><i>'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom</i></p>
 </div>
