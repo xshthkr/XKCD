@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Plate Flip</strong></h3>
-    <p>#3258</p>
-    <p>June 12, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/plate_flip.png">
+    <h3><strong>Tethys</strong></h3>
+    <p>#3259</p>
+    <p>June 15, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/tethys.png">
     <br></br>
-    <p><i>It's great for exfoliating your skin, bones, houses, cities, landscape, etc.</i></p>
+    <p><i>In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.</i></p>
 </div>
