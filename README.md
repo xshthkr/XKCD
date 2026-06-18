@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Tethys</strong></h3>
-    <p>#3259</p>
-    <p>June 15, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/tethys.png">
+    <h3><strong>Messi</strong></h3>
+    <p>#3260</p>
+    <p>June 17, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/messi.png">
     <br></br>
-    <p><i>In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.</i></p>
+    <p><i>Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.</i></p>
 </div>
