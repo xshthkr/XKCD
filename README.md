@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Side Effect</strong></h3>
-    <p>#3261</p>
-    <p>June 19, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/side_effect.png">
+    <h3><strong>Sports Commentary</strong></h3>
+    <p>#3262</p>
+    <p>June 22, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/sports_commentary.png">
     <br></br>
-    <p><i>Brace yourself--the chirp gets pretty weird.</i></p>
+    <p><i>The plural of anecdote may not be data, but the singular of data is anecdote.</i></p>
 </div>
