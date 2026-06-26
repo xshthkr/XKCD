@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Sports Commentary</strong></h3>
-    <p>#3262</p>
-    <p>June 22, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/sports_commentary.png">
+    <h3><strong>Baryon Asymmetry</strong></h3>
+    <p>#3263</p>
+    <p>June 24, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/baryon_asymmetry.png">
     <br></br>
-    <p><i>The plural of anecdote may not be data, but the singular of data is anecdote.</i></p>
+    <p><i>Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?</i></p>
 </div>
