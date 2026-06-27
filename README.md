@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Baryon Asymmetry</strong></h3>
-    <p>#3263</p>
-    <p>June 24, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/baryon_asymmetry.png">
+    <h3><strong>720 Ollie</strong></h3>
+    <p>#3264</p>
+    <p>June 26, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/720_ollie.png">
     <br></br>
-    <p><i>Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?</i></p>
+    <p><i>This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.</i></p>
 </div>
