@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>720 Ollie</strong></h3>
-    <p>#3264</p>
-    <p>June 26, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/720_ollie.png">
+    <h3><strong>Asteroid Threat</strong></h3>
+    <p>#3265</p>
+    <p>June 29, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/asteroid_threat.png">
     <br></br>
-    <p><i>This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.</i></p>
+    <p><i>Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.</i></p>
 </div>
