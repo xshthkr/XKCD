@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Asteroid Threat</strong></h3>
-    <p>#3265</p>
-    <p>June 29, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/asteroid_threat.png">
+    <h3><strong>Holes</strong></h3>
+    <p>#3266</p>
+    <p>July 1, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/holes.png">
     <br></br>
-    <p><i>Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.</i></p>
+    <p><i>If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do.</i></p>
 </div>
