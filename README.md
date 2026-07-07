@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Types of Tornado Alert</strong></h3>
-    <p>#3267</p>
-    <p>July 3, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/types_of_tornado_alert.png">
+    <h3><strong>Offside</strong></h3>
+    <p>#3268</p>
+    <p>July 6, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/offside.png">
     <br></br>
-    <p><i>I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.</i></p>
+    <p><i>The arbiter gave my knight a red card for capturing with cleats up :(</i></p>
 </div>
