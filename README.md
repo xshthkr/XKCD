@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Offside</strong></h3>
-    <p>#3268</p>
-    <p>July 6, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/offside.png">
+    <h3><strong>Airport Meeting</strong></h3>
+    <p>#3269</p>
+    <p>July 8, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/airport_meeting.png">
     <br></br>
-    <p><i>The arbiter gave my knight a red card for capturing with cleats up :(</i></p>
+    <p><i>Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'</i></p>
 </div>
