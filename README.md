@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Airport Meeting</strong></h3>
-    <p>#3269</p>
-    <p>July 8, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/airport_meeting.png">
+    <h3><strong>Toasting Marshmallows</strong></h3>
+    <p>#3270</p>
+    <p>July 10, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/toasting_marshmallows.png">
     <br></br>
-    <p><i>Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'</i></p>
+    <p><i>We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.</i></p>
 </div>
