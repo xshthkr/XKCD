@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Toasting Marshmallows</strong></h3>
-    <p>#3270</p>
-    <p>July 10, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/toasting_marshmallows.png">
+    <h3><strong>The Princess and the Pea</strong></h3>
+    <p>#3271</p>
+    <p>July 13, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/the_princess_and_the_pea.png">
     <br></br>
-    <p><i>We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.</i></p>
+    <p><i>Once we've fully explored this space, we can start varying the number of princesses.</i></p>
 </div>
