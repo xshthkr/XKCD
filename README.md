@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>The Princess and the Pea</strong></h3>
-    <p>#3271</p>
-    <p>July 13, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/the_princess_and_the_pea.png">
+    <h3><strong>Time Change</strong></h3>
+    <p>#3272</p>
+    <p>July 15, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/time_change.png">
     <br></br>
-    <p><i>Once we've fully explored this space, we can start varying the number of princesses.</i></p>
+    <p><i>All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.</i></p>
 </div>
