@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Time Change</strong></h3>
-    <p>#3272</p>
-    <p>July 15, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/time_change.png">
+    <h3><strong>Latitude and Longitude</strong></h3>
+    <p>#3273</p>
+    <p>July 17, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/latitude_and_longitude.png">
     <br></br>
-    <p><i>All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.</i></p>
+    <p><i>NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).</i></p>
 </div>
