@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Latitude and Longitude</strong></h3>
-    <p>#3273</p>
-    <p>July 17, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/latitude_and_longitude.png">
+    <h3><strong>Arthurian Connector</strong></h3>
+    <p>#3274</p>
+    <p>July 20, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/arthurian_connector.png">
     <br></br>
-    <p><i>NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).</i></p>
+    <p><i>Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.</i></p>
 </div>
