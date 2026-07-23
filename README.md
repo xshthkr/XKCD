@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Arthurian Connector</strong></h3>
-    <p>#3274</p>
-    <p>July 20, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/arthurian_connector.png">
+    <h3><strong>Calibration Nobel</strong></h3>
+    <p>#3275</p>
+    <p>July 22, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/calibration_nobel.png">
     <br></br>
-    <p><i>Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.</i></p>
+    <p><i>We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.</i></p>
 </div>
