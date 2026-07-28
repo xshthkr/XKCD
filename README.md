@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Recursive Trucker's Hitch</strong></h3>
-    <p>#3276</p>
-    <p>July 24, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/recursive_truckers_hitch.png">
+    <h3><strong>Forth</strong></h3>
+    <p>#3277</p>
+    <p>July 27, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/forth.png">
     <br></br>
-    <p><i>As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.</i></p>
+    <p><i>I NOTATION POLISH REVERSE ❤️</i></p>
 </div>
