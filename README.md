@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Forth</strong></h3>
-    <p>#3277</p>
-    <p>July 27, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/forth.png">
+    <h3><strong>Vera Rubin Observatory</strong></h3>
+    <p>#3278</p>
+    <p>July 29, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/vera_rubin_observatory.png">
     <br></br>
-    <p><i>I NOTATION POLISH REVERSE ❤️</i></p>
+    <p><i>'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.</i></p>
 </div>
