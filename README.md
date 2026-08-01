@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Vera Rubin Observatory</strong></h3>
-    <p>#3278</p>
-    <p>July 29, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/vera_rubin_observatory.png">
+    <h3><strong>Main Span</strong></h3>
+    <p>#3279</p>
+    <p>July 31, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/main_span.png">
     <br></br>
-    <p><i>'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.</i></p>
+    <p><i>Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?</i></p>
 </div>
