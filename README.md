@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Main Span</strong></h3>
-    <p>#3279</p>
-    <p>July 31, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/main_span.png">
+    <h3><strong>Maze</strong></h3>
+    <p>#3280</p>
+    <p>August 3, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/maze.png">
     <br></br>
-    <p><i>Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?</i></p>
+    <p><i>As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology.</i></p>
 </div>
