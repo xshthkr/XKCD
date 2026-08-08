@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Antiques Roadshow</strong></h3>
-    <p>#3281</p>
-    <p>August 5, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/antiques_roadshow.png">
+    <h3><strong>Trick Play</strong></h3>
+    <p>#3282</p>
+    <p>August 7, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/trick_play.png">
     <br></br>
-    <p><i>The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.</i></p>
+    <p><i>I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.</i></p>
 </div>
