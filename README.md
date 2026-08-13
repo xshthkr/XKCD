@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Size and Lifespan</strong></h3>
-    <p>#3283</p>
-    <p>August 10, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/size_and_lifespan.png">
+    <h3><strong>Geology Building</strong></h3>
+    <p>#3284</p>
+    <p>August 12, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/geology_building.png">
     <br></br>
-    <p><i>With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.</i></p>
+    <p><i>The administration thinks it's weird, but the geologists say it looks normal.</i></p>
 </div>
