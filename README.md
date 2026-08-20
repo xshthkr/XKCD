@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Accretionary Arc</strong></h3>
-    <p>#3285</p>
-    <p>August 14, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/accretionary_arc.png">
+    <h3><strong>Perseids</strong></h3>
+    <p>#3287</p>
+    <p>August 19, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/perseids.png">
     <br></br>
-    <p><i>The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.</i></p>
+    <p><i>Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.</i></p>
 </div>
