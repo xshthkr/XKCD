@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Perseids</strong></h3>
-    <p>#3287</p>
-    <p>August 19, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/perseids.png">
+    <h3><strong>Archery Feat</strong></h3>
+    <p>#3288</p>
+    <p>August 21, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/archery_feat.png">
     <br></br>
-    <p><i>Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.</i></p>
+    <p><i>Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.</i></p>
 </div>
