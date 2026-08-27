@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Highway Signs</strong></h3>
-    <p>#3289</p>
-    <p>August 24, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/highway_signs.png">
+    <h3><strong>Trade</strong></h3>
+    <p>#3290</p>
+    <p>August 26, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/trade.png">
     <br></br>
-    <p><i>Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.</i></p>
+    <p><i>"You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long."</i></p>
 </div>
