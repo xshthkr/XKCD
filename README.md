@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Launchpad</strong></h3>
-    <p>#3291</p>
-    <p>August 28, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/launchpad.png">
+    <h3><strong>Geology Class</strong></h3>
+    <p>#3292</p>
+    <p>August 31, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/geology_class.png">
     <br></br>
-    <p><i>It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget.</i></p>
+    <p><i>The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.</i></p>
 </div>
