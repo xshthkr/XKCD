@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Geology Class</strong></h3>
-    <p>#3292</p>
-    <p>August 31, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/geology_class.png">
+    <h3><strong>Handedness</strong></h3>
+    <p>#3293</p>
+    <p>September 2, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/handedness.png">
     <br></br>
-    <p><i>The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.</i></p>
+    <p><i>A 'left-handed specialist' is a physicist who studies the weak interaction.</i></p>
 </div>
