@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Handedness</strong></h3>
-    <p>#3293</p>
-    <p>September 2, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/handedness.png">
+    <h3><strong>Asteroid Mission</strong></h3>
+    <p>#3294</p>
+    <p>September 4, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/asteroid_mission.png">
     <br></br>
-    <p><i>A 'left-handed specialist' is a physicist who studies the weak interaction.</i></p>
+    <p><i>Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.</i></p>
 </div>
