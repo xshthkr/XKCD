@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Asteroid Mission</strong></h3>
-    <p>#3294</p>
-    <p>September 4, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/asteroid_mission.png">
+    <h3><strong>Semaphore</strong></h3>
+    <p>#3295</p>
+    <p>September 7, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/semaphore.png">
     <br></br>
-    <p><i>Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.</i></p>
+    <p><i>The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.</i></p>
 </div>
