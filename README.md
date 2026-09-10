@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Semaphore</strong></h3>
-    <p>#3295</p>
-    <p>September 7, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/semaphore.png">
+    <h3><strong>Fault Taunting</strong></h3>
+    <p>#3296</p>
+    <p>September 9, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/fault_taunting.png">
     <br></br>
-    <p><i>The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.</i></p>
+    <p><i>One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.</i></p>
 </div>
