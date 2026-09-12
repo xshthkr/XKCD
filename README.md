@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Fault Taunting</strong></h3>
-    <p>#3296</p>
-    <p>September 9, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/fault_taunting.png">
+    <h3><strong>OH Scale</strong></h3>
+    <p>#3297</p>
+    <p>September 11, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/oh_scale.png">
     <br></br>
-    <p><i>One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.</i></p>
+    <p><i>To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.</i></p>
 </div>
