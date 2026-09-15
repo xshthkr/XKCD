@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>OH Scale</strong></h3>
-    <p>#3297</p>
-    <p>September 11, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/oh_scale.png">
+    <h3><strong>Aerospace Flowchart</strong></h3>
+    <p>#3298</p>
+    <p>September 14, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/aerospace_flowchart.png">
     <br></br>
-    <p><i>To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.</i></p>
+    <p><i>Someday, we will find the problem that goes with this solution.</i></p>
 </div>
