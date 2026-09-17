@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Aerospace Flowchart</strong></h3>
-    <p>#3298</p>
-    <p>September 14, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/aerospace_flowchart.png">
+    <h3><strong>Summer</strong></h3>
+    <p>#3299</p>
+    <p>September 16, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/summer.png">
     <br></br>
-    <p><i>Someday, we will find the problem that goes with this solution.</i></p>
+    <p><i>You should probably get back to shore before spring hits.</i></p>
 </div>
