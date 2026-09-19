@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Summer</strong></h3>
-    <p>#3299</p>
-    <p>September 16, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/summer.png">
+    <h3><strong>Tyrannosaurus</strong></h3>
+    <p>#3300</p>
+    <p>September 18, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/tyrannosaurus.png">
     <br></br>
-    <p><i>You should probably get back to shore before spring hits.</i></p>
+    <p><i>Many of the smaller dinosaurs seem to have largely preyed on housecats.</i></p>
 </div>
