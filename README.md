@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Tyrannosaurus</strong></h3>
-    <p>#3300</p>
-    <p>September 18, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/tyrannosaurus.png">
+    <h3><strong>Stargazing 5</strong></h3>
+    <p>#3301</p>
+    <p>September 21, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/stargazing_5.png">
     <br></br>
-    <p><i>Many of the smaller dinosaurs seem to have largely preyed on housecats.</i></p>
+    <p><i>The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.</i></p>
 </div>
