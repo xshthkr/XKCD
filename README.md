@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Stargazing 5</strong></h3>
-    <p>#3301</p>
-    <p>September 21, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/stargazing_5.png">
+    <h3><strong>Voyager Instruments</strong></h3>
+    <p>#3302</p>
+    <p>September 23, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/voyager_instruments.png">
     <br></br>
-    <p><i>The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.</i></p>
+    <p><i>Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.</i></p>
 </div>
