@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Slab Graveyard</strong></h3>
-    <p>#3303</p>
-    <p>September 25, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/slab_graveyard.png">
+    <h3><strong>Jupiter Icy Moons Explorer</strong></h3>
+    <p>#3304</p>
+    <p>September 28, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png">
     <br></br>
-    <p><i>It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!</i></p>
+    <p><i>"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."</i></p>
 </div>
