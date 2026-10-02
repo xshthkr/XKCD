@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Jupiter Icy Moons Explorer</strong></h3>
-    <p>#3304</p>
-    <p>September 28, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png">
+    <h3><strong>Ground Effect</strong></h3>
+    <p>#3305</p>
+    <p>September 30, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/ground_effect.png">
     <br></br>
-    <p><i>"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."</i></p>
+    <p><i>Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.</i></p>
 </div>
