@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Ground Effect</strong></h3>
-    <p>#3305</p>
-    <p>September 30, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/ground_effect.png">
+    <h3><strong>Accelerator Energies</strong></h3>
+    <p>#3306</p>
+    <p>October 2, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/accelerator_energies.png">
     <br></br>
-    <p><i>Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.</i></p>
+    <p><i>Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.</i></p>
 </div>
