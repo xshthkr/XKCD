@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Accelerator Energies</strong></h3>
-    <p>#3306</p>
-    <p>October 2, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/accelerator_energies.png">
+    <h3><strong>Spectrum Allocation</strong></h3>
+    <p>#3307</p>
+    <p>October 5, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/spectrum_allocation.png">
     <br></br>
-    <p><i>Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.</i></p>
+    <p><i>Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.</i></p>
 </div>
