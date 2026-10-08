@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Spectrum Allocation</strong></h3>
-    <p>#3307</p>
-    <p>October 5, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/spectrum_allocation.png">
+    <h3><strong>Juice</strong></h3>
+    <p>#3308</p>
+    <p>October 7, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/juice.png">
     <br></br>
-    <p><i>Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.</i></p>
+    <p><i>I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.</i></p>
 </div>
