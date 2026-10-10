@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Juice</strong></h3>
-    <p>#3308</p>
-    <p>October 7, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/juice.png">
+    <h3><strong>Dogcatcher</strong></h3>
+    <p>#3309</p>
+    <p>October 9, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/dogcatcher.png">
     <br></br>
-    <p><i>I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.</i></p>
+    <p><i>People out here catching strays out here catching strays</i></p>
 </div>
