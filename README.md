@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Rejected Space Mission Profiles</strong></h3>
-    <p>#3310</p>
-    <p>October 12, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png">
+    <h3><strong>Planet Database</strong></h3>
+    <p>#3311</p>
+    <p>October 14, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/planet_database.png">
     <br></br>
-    <p><i>Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.</i></p>
+    <p><i>Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.</i></p>
 </div>
