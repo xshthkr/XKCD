@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Planet Database</strong></h3>
-    <p>#3311</p>
-    <p>October 14, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/planet_database.png">
+    <h3><strong>Momentum Demonstration</strong></h3>
+    <p>#3312</p>
+    <p>October 16, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/momentum_demonstration.png">
     <br></br>
-    <p><i>Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.</i></p>
+    <p><i>"I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other."</i></p>
 </div>
