@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Vulnerability</strong></h3>
-    <p>#3314</p>
-    <p>October 21, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/vulnerability.png">
+    <h3><strong>Forms of Water</strong></h3>
+    <p>#3315</p>
+    <p>October 23, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/forms_of_water.png">
     <br></br>
-    <p><i>Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.</i></p>
+    <p><i>The 'light' refers to bremsstrahlung.</i></p>
 </div>
