@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Forms of Water</strong></h3>
-    <p>#3315</p>
-    <p>October 23, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/forms_of_water.png">
+    <h3><strong>Siege Engine</strong></h3>
+    <p>#3316</p>
+    <p>October 26, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/siege_engine.png">
     <br></br>
-    <p><i>The 'light' refers to bremsstrahlung.</i></p>
+    <p><i>They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.</i></p>
 </div>
