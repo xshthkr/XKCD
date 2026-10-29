@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Siege Engine</strong></h3>
-    <p>#3316</p>
-    <p>October 26, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/siege_engine.png">
+    <h3><strong>Gravitational Square Wave</strong></h3>
+    <p>#3317</p>
+    <p>October 28, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/gravitational_square_wave.png">
     <br></br>
-    <p><i>They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.</i></p>
+    <p><i>Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.</i></p>
 </div>
