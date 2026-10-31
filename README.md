@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Gravitational Square Wave</strong></h3>
-    <p>#3317</p>
-    <p>October 28, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/gravitational_square_wave.png">
+    <h3><strong>Earth Sized Planets</strong></h3>
+    <p>#3318</p>
+    <p>October 30, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/earth_sized_planets.png">
     <br></br>
-    <p><i>Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.</i></p>
+    <p><i>It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.</i></p>
 </div>
