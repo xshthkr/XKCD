@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Earth Sized Planets</strong></h3>
-    <p>#3318</p>
-    <p>October 30, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/earth_sized_planets.png">
+    <h3><strong>Elevators</strong></h3>
+    <p>#3319</p>
+    <p>November 2, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/elevators.png">
     <br></br>
-    <p><i>It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.</i></p>
+    <p><i>"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs."</i></p>
 </div>
