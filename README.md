@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Elevators</strong></h3>
-    <p>#3319</p>
-    <p>November 2, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/elevators.png">
+    <h3><strong>House Majority</strong></h3>
+    <p>#3320</p>
+    <p>November 4, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/house_majority.png">
     <br></br>
-    <p><i>"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs."</i></p>
+    <p><i>For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.</i></p>
 </div>
