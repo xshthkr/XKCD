@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Simulation</strong></h3>
-    <p>#3321</p>
-    <p>November 6, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/simulation.png">
+    <h3><strong>Dragonfly</strong></h3>
+    <p>#3322</p>
+    <p>November 9, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/dragonfly.png">
     <br></br>
-    <p><i>No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.</i></p>
+    <p><i>I'm excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, 'Titan's surface' is right up there at the top with 'Jupiter's atmosphere.'</i></p>
 </div>
