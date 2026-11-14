@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Meteor Fear</strong></h3>
-    <p>#3323</p>
-    <p>November 11, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/meteor_fear.png">
+    <h3><strong>Ultimate Movie Series</strong></h3>
+    <p>#3324</p>
+    <p>November 13, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/ultimate_movie_series.png">
     <br></br>
-    <p><i>Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!</i></p>
+    <p><i>Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.</i></p>
 </div>
