@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Ultimate Movie Series</strong></h3>
-    <p>#3324</p>
-    <p>November 13, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/ultimate_movie_series.png">
+    <h3><strong>Light-Day</strong></h3>
+    <p>#3325</p>
+    <p>November 16, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/light_day.png">
     <br></br>
-    <p><i>Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.</i></p>
+    <p><i>After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.</i></p>
 </div>
