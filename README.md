@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Light-Day</strong></h3>
-    <p>#3325</p>
-    <p>November 16, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/light_day.png">
+    <h3><strong>Voyager Crash</strong></h3>
+    <p>#3326</p>
+    <p>November 18, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/voyager_crash.png">
     <br></br>
-    <p><i>After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.</i></p>
+    <p><i>[Several months later] Actually, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere.</i></p>
 </div>
