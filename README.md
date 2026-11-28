@@ -7,10 +7,10 @@
 <p align="center"><i>Dynamically updated and generated every midnight UTC</i></p>
 <hr>
 <div align="center">
-    <h3><strong>Cesium Atom</strong></h3>
-    <p>#3329</p>
-    <p>November 25, 2026</p>
-    <img src="https://imgs.xkcd.com/comics/cesium_atom.png">
+    <h3><strong>Tiny Squirrels</strong></h3>
+    <p>#3330</p>
+    <p>November 27, 2026</p>
+    <img src="https://imgs.xkcd.com/comics/tiny_squirrels.png">
     <br></br>
-    <p><i>We've all chipped in to buy the retiring committee chair a gold-plated cesium atom.</i></p>
+    <p><i>It's actually an open question why squirrels are so rare. Some theories of the vacuum suggest there should be enormous numbers of them at every point in empty space; it's hard to get the equations to cancel out and produce the observed small number.</i></p>
 </div>
